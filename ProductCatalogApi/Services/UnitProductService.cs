@@ -1,0 +1,62 @@
+using AutoMapper;
+using ProductCatalogAPI.DTOs.UnitProductDtos;
+using ProductCatalogAPI.Models;
+using ProductCatalogAPI.Repositories;
+
+namespace ProductCatalogAPI.Services;
+
+public class UnitProductService : IUnitProductService
+{
+    private readonly IUnitProductRepository _unitProductRepository;
+    private readonly IMapper _mapper;
+
+    public UnitProductService(IUnitProductRepository unitProductRepository, IMapper mapper)
+    {
+        _unitProductRepository = unitProductRepository;
+        _mapper = mapper;
+    }
+
+    public async Task<List<UnitProductResponseDto>> GetAllAsync()
+    {
+        var unitProducts = await _unitProductRepository.GetAllAsync();
+        return _mapper.Map<List<UnitProductResponseDto>>(unitProducts);
+    }
+
+    public async Task<UnitProductResponseDto?> GetByIdAsync(int id)
+    {
+        var unitProduct = await _unitProductRepository.GetByIdAsync(id);
+        if (unitProduct == null) return null;
+        return _mapper.Map<UnitProductResponseDto>(unitProduct);
+    }
+
+    public async Task<List<UnitProductResponseDto>> GetByProductIdAsync(int productId)
+    {
+        var unitProducts = await _unitProductRepository.GetByProductIdAsync(productId);
+        return _mapper.Map<List<UnitProductResponseDto>>(unitProducts);
+    }
+
+    public async Task<UnitProductResponseDto> CreateAsync(CreateUnitProductDto dto)
+    {
+        var unitProduct = _mapper.Map<UnitProduct>(dto);
+        unitProduct.CreatedAt = DateTime.UtcNow;
+
+        var created = await _unitProductRepository.CreateAsync(unitProduct);
+        return _mapper.Map<UnitProductResponseDto>(created);
+    }
+
+    public async Task<UnitProductResponseDto?> UpdateAsync(int id, UpdateUnitProductDto dto)
+    {
+        var existing = await _unitProductRepository.GetByIdAsync(id);
+        if (existing == null) return null;
+
+        _mapper.Map(dto, existing);
+
+        var updated = await _unitProductRepository.UpdateAsync(existing);
+        return _mapper.Map<UnitProductResponseDto>(updated);
+    }
+
+    public async Task<bool> DeleteAsync(int id)
+    {
+        return await _unitProductRepository.DeleteAsync(id);
+    }
+}

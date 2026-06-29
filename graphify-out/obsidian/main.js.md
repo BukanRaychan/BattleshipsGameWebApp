@@ -1,0 +1,87 @@
+---
+source_file: "ObsidianVault/.obsidian/plugins/obsidian42-brat/main.js"
+type: "code"
+community: "Obsidian BRAT Plugin"
+location: "L1"
+tags:
+  - graphify/code
+  - graphify/EXTRACTED
+  - community/Obsidian_BRAT_Plugin
+---
+
+# main.js
+
+## Connections
+- [[ANY()]] - `contains` [EXTRACTED]
+- [[Fe()]] - `contains` [EXTRACTED]
+- [[Go()]] - `contains` [EXTRACTED]
+- [[Ho()]] - `contains` [EXTRACTED]
+- [[Is()]] - `contains` [EXTRACTED]
+- [[N()]] - `contains` [EXTRACTED]
+- [[Oe()]] - `contains` [EXTRACTED]
+- [[P()]] - `contains` [EXTRACTED]
+- [[Ts()]] - `contains` [EXTRACTED]
+- [[Xo()]] - `contains` [EXTRACTED]
+- [[_o()]] - `contains` [EXTRACTED]
+- [[addPlugin()]] - `contains` [EXTRACTED]
+- [[bs()]] - `contains` [EXTRACTED]
+- [[checkForPluginUpdatesAndInstallUpdates()]] - `contains` [EXTRACTED]
+- [[checkIncompatiblePlugins()]] - `contains` [EXTRACTED]
+- [[compare()]] - `contains` [EXTRACTED]
+- [[compareBuild()]] - `contains` [EXTRACTED]
+- [[compareMain()]] - `contains` [EXTRACTED]
+- [[comparePre()]] - `contains` [EXTRACTED]
+- [[constructor()]] - `contains` [EXTRACTED]
+- [[copyRepoIdentifier()]] - `contains` [EXTRACTED]
+- [[createTokenInfoElement()]] - `contains` [EXTRACTED]
+- [[ct()]] - `contains` [EXTRACTED]
+- [[delete()]] - `contains` [EXTRACTED]
+- [[deletePlugin()]] - `contains` [EXTRACTED]
+- [[display()]] - `contains` [EXTRACTED]
+- [[displayAddNewPluginModal()]] - `contains` [EXTRACTED]
+- [[format()]] - `contains` [EXTRACTED]
+- [[fs()]] - `contains` [EXTRACTED]
+- [[get()]] - `contains` [EXTRACTED]
+- [[getAllReleaseFiles()]] - `contains` [EXTRACTED]
+- [[getEnabledDisabledPlugins()]] - `contains` [EXTRACTED]
+- [[getMinutesToReset()]] - `contains` [EXTRACTED]
+- [[getSuggestions()]] - `contains` [EXTRACTED]
+- [[he()]] - `contains` [EXTRACTED]
+- [[hs()]] - `contains` [EXTRACTED]
+- [[ht()]] - `contains` [EXTRACTED]
+- [[inc()]] - `contains` [EXTRACTED]
+- [[intersects()]] - `contains` [EXTRACTED]
+- [[isGitHubRepositoryMatch()]] - `contains` [EXTRACTED]
+- [[ks()]] - `contains` [EXTRACTED]
+- [[loadSettings()]] - `contains` [EXTRACTED]
+- [[log()]] - `contains` [EXTRACTED]
+- [[onChooseSuggestion()]] - `contains` [EXTRACTED]
+- [[onClose()]] - `contains` [EXTRACTED]
+- [[onNoSuggestion()]] - `contains` [EXTRACTED]
+- [[onOpen()]] - `contains` [EXTRACTED]
+- [[onload()]] - `contains` [EXTRACTED]
+- [[onunload()]] - `contains` [EXTRACTED]
+- [[parse()]] - `contains` [EXTRACTED]
+- [[parseRange()]] - `contains` [EXTRACTED]
+- [[range()]] - `contains` [EXTRACTED]
+- [[reloadPlugin()]] - `contains` [EXTRACTED]
+- [[renderSuggestion()]] - `contains` [EXTRACTED]
+- [[ribbonDisplayCommands()]] - `contains` [EXTRACTED]
+- [[saveSettings()]] - `contains` [EXTRACTED]
+- [[set()]] - `contains` [EXTRACTED]
+- [[showErrorMessage()]] - `contains` [EXTRACTED]
+- [[showValidTokenInfo()]] - `contains` [EXTRACTED]
+- [[submitForm()]] - `contains` [EXTRACTED]
+- [[test()]] - `contains` [EXTRACTED]
+- [[toString()]] - `contains` [EXTRACTED]
+- [[updatePlugin()]] - `contains` [EXTRACTED]
+- [[updateRepositoryVersionInfo()]] - `contains` [EXTRACTED]
+- [[updateVersionDropdown()]] - `contains` [EXTRACTED]
+- [[validateRepository()]] - `contains` [EXTRACTED]
+- [[validateToken()]] - `contains` [EXTRACTED]
+- [[vs()]] - `contains` [EXTRACTED]
+- [[writeReleaseFilesToPluginFolder()]] - `contains` [EXTRACTED]
+- [[xs()]] - `contains` [EXTRACTED]
+- [[zo()]] - `contains` [EXTRACTED]
+
+#graphify/code #graphify/EXTRACTED #community/Obsidian_BRAT_Plugin

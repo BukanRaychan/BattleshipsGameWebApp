@@ -26,10 +26,8 @@ public class AuthService : IAuthService
 
         var user = new ApplicationUser
         {
-            FirstName = dto.FirstName,
-            LastName = dto.LastName,
             Email = dto.Email,
-            UserName = dto.Email,
+            UserName = dto.Username,
             CreatedAt = DateTime.UtcNow
         };
 

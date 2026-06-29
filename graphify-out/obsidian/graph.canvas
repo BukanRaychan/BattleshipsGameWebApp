@@ -1,0 +1,6870 @@
+{
+  "nodes": [
+    {
+      "id": "g0",
+      "type": "group",
+      "label": "API Controllers & Services",
+      "x": 0,
+      "y": 0,
+      "width": 2200,
+      "height": 1020,
+      "color": "1"
+    },
+    {
+      "id": "n_controllers_productscontroller_productscontroller_create",
+      "type": "file",
+      "file": ".Create().md",
+      "x": 20,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_controllers_unitproductscontroller_unitproductscontroller_create",
+      "type": "file",
+      "file": ".Create()_1.md",
+      "x": 220,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repositories_iunitproductrepository_iunitproductrepository_createasync",
+      "type": "file",
+      "file": ".CreateAsync()_1.md",
+      "x": 420,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repositories_unitproductrepository_unitproductrepository_createasync",
+      "type": "file",
+      "file": ".CreateAsync()_3.md",
+      "x": 620,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_iproductservice_iproductservice_createasync",
+      "type": "file",
+      "file": ".CreateAsync()_4.md",
+      "x": 820,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_iunitproductservice_iunitproductservice_createasync",
+      "type": "file",
+      "file": ".CreateAsync()_5.md",
+      "x": 1020,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_productservice_productservice_createasync",
+      "type": "file",
+      "file": ".CreateAsync()_6.md",
+      "x": 1220,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_unitproductservice_unitproductservice_createasync",
+      "type": "file",
+      "file": ".CreateAsync()_7.md",
+      "x": 1420,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_controllers_productscontroller_productscontroller_delete",
+      "type": "file",
+      "file": ".Delete().md",
+      "x": 1620,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_controllers_unitproductscontroller_unitproductscontroller_delete",
+      "type": "file",
+      "file": ".Delete()_1.md",
+      "x": 1820,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repositories_iunitproductrepository_iunitproductrepository_deleteasync",
+      "type": "file",
+      "file": ".DeleteAsync()_1.md",
+      "x": 20,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repositories_unitproductrepository_unitproductrepository_deleteasync",
+      "type": "file",
+      "file": ".DeleteAsync()_3.md",
+      "x": 220,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_iproductservice_iproductservice_deleteasync",
+      "type": "file",
+      "file": ".DeleteAsync()_4.md",
+      "x": 420,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_iunitproductservice_iunitproductservice_deleteasync",
+      "type": "file",
+      "file": ".DeleteAsync()_5.md",
+      "x": 620,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_productservice_productservice_deleteasync",
+      "type": "file",
+      "file": ".DeleteAsync()_6.md",
+      "x": 820,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_unitproductservice_unitproductservice_deleteasync",
+      "type": "file",
+      "file": ".DeleteAsync()_7.md",
+      "x": 1020,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_controllers_productscontroller_productscontroller_getall",
+      "type": "file",
+      "file": ".GetAll().md",
+      "x": 1220,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_controllers_unitproductscontroller_unitproductscontroller_getall",
+      "type": "file",
+      "file": ".GetAll()_1.md",
+      "x": 1420,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repositories_iunitproductrepository_iunitproductrepository_getallasync",
+      "type": "file",
+      "file": ".GetAllAsync()_1.md",
+      "x": 1620,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repositories_unitproductrepository_unitproductrepository_getallasync",
+      "type": "file",
+      "file": ".GetAllAsync()_3.md",
+      "x": 1820,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_iproductservice_iproductservice_getallasync",
+      "type": "file",
+      "file": ".GetAllAsync()_4.md",
+      "x": 20,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_iunitproductservice_iunitproductservice_getallasync",
+      "type": "file",
+      "file": ".GetAllAsync()_5.md",
+      "x": 220,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_productservice_productservice_getallasync",
+      "type": "file",
+      "file": ".GetAllAsync()_6.md",
+      "x": 420,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_unitproductservice_unitproductservice_getallasync",
+      "type": "file",
+      "file": ".GetAllAsync()_7.md",
+      "x": 620,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_controllers_productscontroller_productscontroller_getbyid",
+      "type": "file",
+      "file": ".GetById().md",
+      "x": 820,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_controllers_unitproductscontroller_unitproductscontroller_getbyid",
+      "type": "file",
+      "file": ".GetById()_1.md",
+      "x": 1020,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repositories_iunitproductrepository_iunitproductrepository_getbyidasync",
+      "type": "file",
+      "file": ".GetByIdAsync()_1.md",
+      "x": 1220,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repositories_unitproductrepository_unitproductrepository_getbyidasync",
+      "type": "file",
+      "file": ".GetByIdAsync()_3.md",
+      "x": 1420,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_iproductservice_iproductservice_getbyidasync",
+      "type": "file",
+      "file": ".GetByIdAsync()_4.md",
+      "x": 1620,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_iunitproductservice_iunitproductservice_getbyidasync",
+      "type": "file",
+      "file": ".GetByIdAsync()_5.md",
+      "x": 1820,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_productservice_productservice_getbyidasync",
+      "type": "file",
+      "file": ".GetByIdAsync()_6.md",
+      "x": 20,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_unitproductservice_unitproductservice_getbyidasync",
+      "type": "file",
+      "file": ".GetByIdAsync()_7.md",
+      "x": 220,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_controllers_unitproductscontroller_unitproductscontroller_getbyproductid",
+      "type": "file",
+      "file": ".GetByProductId().md",
+      "x": 420,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repositories_iunitproductrepository_iunitproductrepository_getbyproductidasync",
+      "type": "file",
+      "file": ".GetByProductIdAsync().md",
+      "x": 620,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repositories_unitproductrepository_unitproductrepository_getbyproductidasync",
+      "type": "file",
+      "file": ".GetByProductIdAsync()_1.md",
+      "x": 820,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_iunitproductservice_iunitproductservice_getbyproductidasync",
+      "type": "file",
+      "file": ".GetByProductIdAsync()_2.md",
+      "x": 1020,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_unitproductservice_unitproductservice_getbyproductidasync",
+      "type": "file",
+      "file": ".GetByProductIdAsync()_3.md",
+      "x": 1220,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_controllers_authcontroller_authcontroller_login",
+      "type": "file",
+      "file": ".Login().md",
+      "x": 1420,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_controllers_authcontroller_authcontroller_register",
+      "type": "file",
+      "file": ".Register().md",
+      "x": 1620,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_controllers_productscontroller_productscontroller_update",
+      "type": "file",
+      "file": ".Update().md",
+      "x": 1820,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_controllers_unitproductscontroller_unitproductscontroller_update",
+      "type": "file",
+      "file": ".Update()_1.md",
+      "x": 20,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repositories_iunitproductrepository_iunitproductrepository_updateasync",
+      "type": "file",
+      "file": ".UpdateAsync()_1.md",
+      "x": 220,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repositories_unitproductrepository_unitproductrepository_updateasync",
+      "type": "file",
+      "file": ".UpdateAsync()_3.md",
+      "x": 420,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_iproductservice_iproductservice_updateasync",
+      "type": "file",
+      "file": ".UpdateAsync()_4.md",
+      "x": 620,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_iunitproductservice_iunitproductservice_updateasync",
+      "type": "file",
+      "file": ".UpdateAsync()_5.md",
+      "x": 820,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_productservice_productservice_updateasync",
+      "type": "file",
+      "file": ".UpdateAsync()_6.md",
+      "x": 1020,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_unitproductservice_unitproductservice_updateasync",
+      "type": "file",
+      "file": ".UpdateAsync()_7.md",
+      "x": 1220,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_controllers_authcontroller_authcontroller_updateprofile",
+      "type": "file",
+      "file": ".UpdateProfile().md",
+      "x": 1420,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_controllers_authcontroller_authcontroller",
+      "type": "file",
+      "file": "AuthController.md",
+      "x": 1620,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_controllers_authcontroller",
+      "type": "file",
+      "file": "AuthController.cs.md",
+      "x": 1820,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_authorize",
+      "type": "file",
+      "file": "Authorize.md",
+      "x": 20,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_controllerbase",
+      "type": "file",
+      "file": "ControllerBase.md",
+      "x": 220,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_createproductdto",
+      "type": "file",
+      "file": "CreateProductDto.md",
+      "x": 420,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_productvalidators_createproductvalidator_createproductvalidator",
+      "type": "file",
+      "file": "CreateProductValidator.md",
+      "x": 620,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_productvalidators_createproductvalidator",
+      "type": "file",
+      "file": "CreateProductValidator.cs.md",
+      "x": 820,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_createunitproductdto",
+      "type": "file",
+      "file": "CreateUnitProductDto.md",
+      "x": 1020,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_httpdelete",
+      "type": "file",
+      "file": "HttpDelete.md",
+      "x": 1220,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_httpget",
+      "type": "file",
+      "file": "HttpGet.md",
+      "x": 1420,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_httppost",
+      "type": "file",
+      "file": "HttpPost.md",
+      "x": 1620,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_httpput",
+      "type": "file",
+      "file": "HttpPut.md",
+      "x": 1820,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_iactionresult",
+      "type": "file",
+      "file": "IActionResult.md",
+      "x": 20,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_imapper",
+      "type": "file",
+      "file": "IMapper.md",
+      "x": 220,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_iproductservice_iproductservice",
+      "type": "file",
+      "file": "IProductService.md",
+      "x": 420,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_iproductservice",
+      "type": "file",
+      "file": "IProductService.cs.md",
+      "x": 620,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repositories_iunitproductrepository_iunitproductrepository",
+      "type": "file",
+      "file": "IUnitProductRepository.md",
+      "x": 820,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repositories_iunitproductrepository",
+      "type": "file",
+      "file": "IUnitProductRepository.cs.md",
+      "x": 1020,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_iunitproductservice_iunitproductservice",
+      "type": "file",
+      "file": "IUnitProductService.md",
+      "x": 1220,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_iunitproductservice",
+      "type": "file",
+      "file": "IUnitProductService.cs.md",
+      "x": 1420,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_list",
+      "type": "file",
+      "file": "List.md",
+      "x": 1620,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_productresponsedto",
+      "type": "file",
+      "file": "ProductResponseDto_1.md",
+      "x": 1820,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_productservice_productservice",
+      "type": "file",
+      "file": "ProductService.md",
+      "x": 20,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameapi_services_productservice_cs_services_productservice",
+      "type": "file",
+      "file": "ProductService.cs.md",
+      "x": 220,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_controllers_productscontroller_productscontroller",
+      "type": "file",
+      "file": "ProductsController.md",
+      "x": 420,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_controllers_productscontroller",
+      "type": "file",
+      "file": "ProductsController.cs.md",
+      "x": 620,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_task",
+      "type": "file",
+      "file": "Task.md",
+      "x": 820,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_models_unitproduct_unitproduct",
+      "type": "file",
+      "file": "UnitProduct.md",
+      "x": 1020,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_models_unitproduct",
+      "type": "file",
+      "file": "UnitProduct.cs.md",
+      "x": 1220,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repositories_unitproductrepository_unitproductrepository",
+      "type": "file",
+      "file": "UnitProductRepository.md",
+      "x": 1420,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repositories_unitproductrepository",
+      "type": "file",
+      "file": "UnitProductRepository.cs.md",
+      "x": 1620,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_unitproductresponsedto",
+      "type": "file",
+      "file": "UnitProductResponseDto_1.md",
+      "x": 1820,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_unitproductservice_unitproductservice",
+      "type": "file",
+      "file": "UnitProductService.md",
+      "x": 20,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameapi_services_unitproductservice_cs_services_unitproductservice",
+      "type": "file",
+      "file": "UnitProductService.cs.md",
+      "x": 220,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_controllers_unitproductscontroller_unitproductscontroller",
+      "type": "file",
+      "file": "UnitProductsController.md",
+      "x": 420,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_controllers_unitproductscontroller",
+      "type": "file",
+      "file": "UnitProductsController.cs.md",
+      "x": 620,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_updateproductdto",
+      "type": "file",
+      "file": "UpdateProductDto.md",
+      "x": 820,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_productvalidators_updateproductvalidator_updateproductvalidator",
+      "type": "file",
+      "file": "UpdateProductValidator.md",
+      "x": 1020,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_productvalidators_updateproductvalidator",
+      "type": "file",
+      "file": "UpdateProductValidator.cs.md",
+      "x": 1220,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_updateunitproductdto",
+      "type": "file",
+      "file": "UpdateUnitProductDto.md",
+      "x": 1420,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g1",
+      "type": "group",
+      "label": "Obsidian BRAT Plugin",
+      "x": 2280,
+      "y": 0,
+      "width": 1980,
+      "height": 1020,
+      "color": "2"
+    },
+    {
+      "id": "n_obsidian42_brat_main_constructor_console",
+      "type": "file",
+      "file": ".console().md",
+      "x": 2300,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_constructor_obsidianprotocolhandler",
+      "type": "file",
+      "file": ".obsidianProtocolHandler().md",
+      "x": 2500,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_any",
+      "type": "file",
+      "file": "ANY().md",
+      "x": 2700,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_fe",
+      "type": "file",
+      "file": "Fe().md",
+      "x": 2900,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_go",
+      "type": "file",
+      "file": "Go().md",
+      "x": 3100,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_ho",
+      "type": "file",
+      "file": "Ho().md",
+      "x": 3300,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_is",
+      "type": "file",
+      "file": "Is().md",
+      "x": 3500,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_n",
+      "type": "file",
+      "file": "N().md",
+      "x": 3700,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_oe",
+      "type": "file",
+      "file": "Oe().md",
+      "x": 3900,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_p",
+      "type": "file",
+      "file": "P().md",
+      "x": 2300,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_ts",
+      "type": "file",
+      "file": "Ts().md",
+      "x": 2500,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_xo",
+      "type": "file",
+      "file": "Xo().md",
+      "x": 2700,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_o",
+      "type": "file",
+      "file": "_o().md",
+      "x": 2900,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_addplugin",
+      "type": "file",
+      "file": "addPlugin().md",
+      "x": 3100,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_bs",
+      "type": "file",
+      "file": "bs().md",
+      "x": 3300,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_checkforpluginupdatesandinstallupdates",
+      "type": "file",
+      "file": "checkForPluginUpdatesAndInstallUpdates().md",
+      "x": 3500,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_checkincompatibleplugins",
+      "type": "file",
+      "file": "checkIncompatiblePlugins().md",
+      "x": 3700,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_compare",
+      "type": "file",
+      "file": "compare().md",
+      "x": 3900,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_comparebuild",
+      "type": "file",
+      "file": "compareBuild().md",
+      "x": 2300,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_comparemain",
+      "type": "file",
+      "file": "compareMain().md",
+      "x": 2500,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_comparepre",
+      "type": "file",
+      "file": "comparePre().md",
+      "x": 2700,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_constructor",
+      "type": "file",
+      "file": "constructor().md",
+      "x": 2900,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_copyrepoidentifier",
+      "type": "file",
+      "file": "copyRepoIdentifier().md",
+      "x": 3100,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_createtokeninfoelement",
+      "type": "file",
+      "file": "createTokenInfoElement().md",
+      "x": 3300,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_ct",
+      "type": "file",
+      "file": "ct().md",
+      "x": 3500,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_delete",
+      "type": "file",
+      "file": "delete().md",
+      "x": 3700,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_deleteplugin",
+      "type": "file",
+      "file": "deletePlugin().md",
+      "x": 3900,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_display",
+      "type": "file",
+      "file": "display().md",
+      "x": 2300,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_displayaddnewpluginmodal",
+      "type": "file",
+      "file": "displayAddNewPluginModal().md",
+      "x": 2500,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_format",
+      "type": "file",
+      "file": "format().md",
+      "x": 2700,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_fs",
+      "type": "file",
+      "file": "fs().md",
+      "x": 2900,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_get",
+      "type": "file",
+      "file": "get().md",
+      "x": 3100,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_getallreleasefiles",
+      "type": "file",
+      "file": "getAllReleaseFiles().md",
+      "x": 3300,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_getenableddisabledplugins",
+      "type": "file",
+      "file": "getEnabledDisabledPlugins().md",
+      "x": 3500,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_getminutestoreset",
+      "type": "file",
+      "file": "getMinutesToReset().md",
+      "x": 3700,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_getsuggestions",
+      "type": "file",
+      "file": "getSuggestions().md",
+      "x": 3900,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_he",
+      "type": "file",
+      "file": "he().md",
+      "x": 2300,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_hs",
+      "type": "file",
+      "file": "hs().md",
+      "x": 2500,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_ht",
+      "type": "file",
+      "file": "ht().md",
+      "x": 2700,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_inc",
+      "type": "file",
+      "file": "inc().md",
+      "x": 2900,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_intersects",
+      "type": "file",
+      "file": "intersects().md",
+      "x": 3100,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_isgithubrepositorymatch",
+      "type": "file",
+      "file": "isGitHubRepositoryMatch().md",
+      "x": 3300,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_ks",
+      "type": "file",
+      "file": "ks().md",
+      "x": 3500,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_loadsettings",
+      "type": "file",
+      "file": "loadSettings().md",
+      "x": 3700,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_log",
+      "type": "file",
+      "file": "log().md",
+      "x": 3900,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main",
+      "type": "file",
+      "file": "main.js.md",
+      "x": 2300,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_onchoosesuggestion",
+      "type": "file",
+      "file": "onChooseSuggestion().md",
+      "x": 2500,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_onclose",
+      "type": "file",
+      "file": "onClose().md",
+      "x": 2700,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_onnosuggestion",
+      "type": "file",
+      "file": "onNoSuggestion().md",
+      "x": 2900,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_onopen",
+      "type": "file",
+      "file": "onOpen().md",
+      "x": 3100,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_onload",
+      "type": "file",
+      "file": "onload().md",
+      "x": 3300,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_onunload",
+      "type": "file",
+      "file": "onunload().md",
+      "x": 3500,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_parse",
+      "type": "file",
+      "file": "parse().md",
+      "x": 3700,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_parserange",
+      "type": "file",
+      "file": "parseRange().md",
+      "x": 3900,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_range",
+      "type": "file",
+      "file": "range().md",
+      "x": 2300,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_reloadplugin",
+      "type": "file",
+      "file": "reloadPlugin().md",
+      "x": 2500,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_rendersuggestion",
+      "type": "file",
+      "file": "renderSuggestion().md",
+      "x": 2700,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_ribbondisplaycommands",
+      "type": "file",
+      "file": "ribbonDisplayCommands().md",
+      "x": 2900,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_savesettings",
+      "type": "file",
+      "file": "saveSettings().md",
+      "x": 3100,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_set",
+      "type": "file",
+      "file": "set().md",
+      "x": 3300,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_showerrormessage",
+      "type": "file",
+      "file": "showErrorMessage().md",
+      "x": 3500,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_showvalidtokeninfo",
+      "type": "file",
+      "file": "showValidTokenInfo().md",
+      "x": 3700,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_submitform",
+      "type": "file",
+      "file": "submitForm().md",
+      "x": 3900,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_test",
+      "type": "file",
+      "file": "test().md",
+      "x": 2300,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_tostring",
+      "type": "file",
+      "file": "toString().md",
+      "x": 2500,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_updateplugin",
+      "type": "file",
+      "file": "updatePlugin().md",
+      "x": 2700,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_updaterepositoryversioninfo",
+      "type": "file",
+      "file": "updateRepositoryVersionInfo().md",
+      "x": 2900,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_updateversiondropdown",
+      "type": "file",
+      "file": "updateVersionDropdown().md",
+      "x": 3100,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_validaterepository",
+      "type": "file",
+      "file": "validateRepository().md",
+      "x": 3300,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_validatetoken",
+      "type": "file",
+      "file": "validateToken().md",
+      "x": 3500,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_vs",
+      "type": "file",
+      "file": "vs().md",
+      "x": 3700,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_writereleasefilestopluginfolder",
+      "type": "file",
+      "file": "writeReleaseFilesToPluginFolder().md",
+      "x": 3900,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_xs",
+      "type": "file",
+      "file": "xs().md",
+      "x": 2300,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_main_zo",
+      "type": "file",
+      "file": "zo().md",
+      "x": 2500,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g2",
+      "type": "group",
+      "label": "React App Shell & Auth",
+      "x": 4340,
+      "y": 0,
+      "width": 1760,
+      "height": 820,
+      "color": "3"
+    },
+    {
+      "id": "n_src_app_app",
+      "type": "file",
+      "file": "App().md",
+      "x": 4360,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_app",
+      "type": "file",
+      "file": "App.tsx.md",
+      "x": 4560,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_context_authcontext_authcontext",
+      "type": "file",
+      "file": "AuthContext.md",
+      "x": 4760,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_context_authcontext",
+      "type": "file",
+      "file": "AuthContext.tsx.md",
+      "x": 4960,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_context_authcontext_authcontexttype",
+      "type": "file",
+      "file": "AuthContextType.md",
+      "x": 5160,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_context_authcontext_authprovider",
+      "type": "file",
+      "file": "AuthProvider().md",
+      "x": 5360,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ui_button_button",
+      "type": "file",
+      "file": "Button().md",
+      "x": 5560,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ui_card_card",
+      "type": "file",
+      "file": "Card().md",
+      "x": 5760,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ui_card_cardprops",
+      "type": "file",
+      "file": "CardProps.md",
+      "x": 4360,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ui_form_form",
+      "type": "file",
+      "file": "Form().md",
+      "x": 4560,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ui_form_formcontrol",
+      "type": "file",
+      "file": "FormControl().md",
+      "x": 4760,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ui_form_formcontrolprops",
+      "type": "file",
+      "file": "FormControlProps.md",
+      "x": 4960,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ui_form_formitem",
+      "type": "file",
+      "file": "FormItem().md",
+      "x": 5160,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ui_form_formitemprops",
+      "type": "file",
+      "file": "FormItemProps.md",
+      "x": 5360,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ui_form_formlabel",
+      "type": "file",
+      "file": "FormLabel().md",
+      "x": 5560,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ui_form_formlabelprops",
+      "type": "file",
+      "file": "FormLabelProps.md",
+      "x": 5760,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ui_form_formmessage",
+      "type": "file",
+      "file": "FormMessage().md",
+      "x": 4360,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ui_form_formmessageprops",
+      "type": "file",
+      "file": "FormMessageProps.md",
+      "x": 4560,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ui_form_formprops",
+      "type": "file",
+      "file": "FormProps.md",
+      "x": 4760,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ui_input_input",
+      "type": "file",
+      "file": "Input.md",
+      "x": 4960,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ui_input_inputprops",
+      "type": "file",
+      "file": "InputProps.md",
+      "x": 5160,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ui_label_label",
+      "type": "file",
+      "file": "Label().md",
+      "x": 5360,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ui_label_labelprops",
+      "type": "file",
+      "file": "LabelProps.md",
+      "x": 5560,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_pages_loginpage_loginpage",
+      "type": "file",
+      "file": "LoginPage().md",
+      "x": 5760,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_pages_loginpage",
+      "type": "file",
+      "file": "LoginPage.tsx.md",
+      "x": 4360,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_types_api_productresponsedto",
+      "type": "file",
+      "file": "ProductResponseDto_2.md",
+      "x": 4560,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_pages_productspage_productspage",
+      "type": "file",
+      "file": "ProductsPage().md",
+      "x": 4760,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_pages_productspage",
+      "type": "file",
+      "file": "ProductsPage.tsx.md",
+      "x": 4960,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_pages_registerpage_registerpage",
+      "type": "file",
+      "file": "RegisterPage().md",
+      "x": 5160,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_pages_registerpage",
+      "type": "file",
+      "file": "RegisterPage.tsx.md",
+      "x": 5360,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_requireauth_requireauth",
+      "type": "file",
+      "file": "RequireAuth().md",
+      "x": 5560,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_requireauth",
+      "type": "file",
+      "file": "RequireAuth.tsx.md",
+      "x": 5760,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ui_select_select",
+      "type": "file",
+      "file": "Select.md",
+      "x": 4360,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ui_select_selectprops",
+      "type": "file",
+      "file": "SelectProps.md",
+      "x": 4560,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_shell_shell",
+      "type": "file",
+      "file": "Shell().md",
+      "x": 4760,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_shell",
+      "type": "file",
+      "file": "Shell.tsx.md",
+      "x": 4960,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ui_textarea_textarea",
+      "type": "file",
+      "file": "Textarea.md",
+      "x": 5160,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ui_textarea_textareaprops",
+      "type": "file",
+      "file": "TextareaProps.md",
+      "x": 5360,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_theme_provider_themeprovider",
+      "type": "file",
+      "file": "ThemeProvider().md",
+      "x": 5560,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_pages_unitproductspage_unitproductspage",
+      "type": "file",
+      "file": "UnitProductsPage().md",
+      "x": 5760,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_pages_unitproductspage",
+      "type": "file",
+      "file": "UnitProductsPage.tsx.md",
+      "x": 4360,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ui_button",
+      "type": "file",
+      "file": "button.tsx.md",
+      "x": 4560,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ui_button_buttonvariants",
+      "type": "file",
+      "file": "buttonVariants.md",
+      "x": 4760,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ui_card",
+      "type": "file",
+      "file": "card.tsx.md",
+      "x": 4960,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_utils_cn",
+      "type": "file",
+      "file": "cn().md",
+      "x": 5160,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ui_form",
+      "type": "file",
+      "file": "form.tsx.md",
+      "x": 5360,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_productservice_getallproducts",
+      "type": "file",
+      "file": "getAllProducts().md",
+      "x": 5560,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ui_input",
+      "type": "file",
+      "file": "input.tsx.md",
+      "x": 5760,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ui_label",
+      "type": "file",
+      "file": "label.tsx.md",
+      "x": 4360,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_main",
+      "type": "file",
+      "file": "main.tsx.md",
+      "x": 4560,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_shell_navitems",
+      "type": "file",
+      "file": "navItems.md",
+      "x": 4760,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_context_authcontext_readstoreduser",
+      "type": "file",
+      "file": "readStoredUser().md",
+      "x": 4960,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ui_select",
+      "type": "file",
+      "file": "select.tsx.md",
+      "x": 5160,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ui_textarea",
+      "type": "file",
+      "file": "textarea.tsx.md",
+      "x": 5360,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_context_authcontext_useauth",
+      "type": "file",
+      "file": "useAuth().md",
+      "x": 5560,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_utils",
+      "type": "file",
+      "file": "utils.ts.md",
+      "x": 5760,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g3",
+      "type": "group",
+      "label": "Frontend Dependencies",
+      "x": 6180,
+      "y": 0,
+      "width": 1540,
+      "height": 720,
+      "color": "4"
+    },
+    {
+      "id": "n_battleshipsgameui_package_devdependencies_eslint_js",
+      "type": "file",
+      "file": "@eslintjs.md",
+      "x": 6200,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_package_dependencies_fontsource_variable_dm_sans",
+      "type": "file",
+      "file": "@fontsource-variabledm-sans.md",
+      "x": 6400,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_package_dependencies_tabler_icons_react",
+      "type": "file",
+      "file": "@tablericons-react.md",
+      "x": 6600,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_package_dependencies_tailwindcss_vite",
+      "type": "file",
+      "file": "@tailwindcssvite.md",
+      "x": 6800,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_package_devdependencies_types_node",
+      "type": "file",
+      "file": "@typesnode.md",
+      "x": 7000,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_package_devdependencies_types_react",
+      "type": "file",
+      "file": "@typesreact.md",
+      "x": 7200,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_package_devdependencies_types_react_dom",
+      "type": "file",
+      "file": "@typesreact-dom.md",
+      "x": 7400,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_package_devdependencies_vitejs_plugin_react",
+      "type": "file",
+      "file": "@vitejsplugin-react.md",
+      "x": 6200,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_package_scripts_build",
+      "type": "file",
+      "file": "build.md",
+      "x": 6400,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_package_dependencies_class_variance_authority",
+      "type": "file",
+      "file": "class-variance-authority.md",
+      "x": 6600,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_package_dependencies_clsx",
+      "type": "file",
+      "file": "clsx.md",
+      "x": 6800,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_package_dependencies",
+      "type": "file",
+      "file": "dependencies.md",
+      "x": 7000,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_package_scripts_dev",
+      "type": "file",
+      "file": "dev.md",
+      "x": 7200,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_package_devdependencies",
+      "type": "file",
+      "file": "devDependencies.md",
+      "x": 7400,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_package_devdependencies_eslint",
+      "type": "file",
+      "file": "eslint.md",
+      "x": 6200,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_package_devdependencies_eslint_plugin_react_hooks",
+      "type": "file",
+      "file": "eslint-plugin-react-hooks.md",
+      "x": 6400,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_package_devdependencies_eslint_plugin_react_refresh",
+      "type": "file",
+      "file": "eslint-plugin-react-refresh.md",
+      "x": 6600,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_package_scripts_format",
+      "type": "file",
+      "file": "format.md",
+      "x": 6800,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_package_devdependencies_globals",
+      "type": "file",
+      "file": "globals.md",
+      "x": 7000,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_package_scripts_lint",
+      "type": "file",
+      "file": "lint.md",
+      "x": 7200,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_package_name",
+      "type": "file",
+      "file": "name.md",
+      "x": 7400,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_package",
+      "type": "file",
+      "file": "package.json.md",
+      "x": 6200,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_package_devdependencies_prettier",
+      "type": "file",
+      "file": "prettier.md",
+      "x": 6400,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_package_devdependencies_prettier_plugin_tailwindcss",
+      "type": "file",
+      "file": "prettier-plugin-tailwindcss.md",
+      "x": 6600,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_package_scripts_preview",
+      "type": "file",
+      "file": "preview.md",
+      "x": 6800,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_package_private",
+      "type": "file",
+      "file": "private.md",
+      "x": 7000,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_package_dependencies_radix_ui",
+      "type": "file",
+      "file": "radix-ui.md",
+      "x": 7200,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_package_dependencies_react",
+      "type": "file",
+      "file": "react.md",
+      "x": 7400,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_package_dependencies_react_dom",
+      "type": "file",
+      "file": "react-dom.md",
+      "x": 6200,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_package_dependencies_react_router_dom",
+      "type": "file",
+      "file": "react-router-dom.md",
+      "x": 6400,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_package_scripts",
+      "type": "file",
+      "file": "scripts.md",
+      "x": 6600,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_package_dependencies_shadcn",
+      "type": "file",
+      "file": "shadcn.md",
+      "x": 6800,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_package_dependencies_tailwind_merge",
+      "type": "file",
+      "file": "tailwind-merge.md",
+      "x": 7000,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_package_dependencies_tailwindcss",
+      "type": "file",
+      "file": "tailwindcss.md",
+      "x": 7200,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_package_dependencies_tw_animate_css",
+      "type": "file",
+      "file": "tw-animate-css.md",
+      "x": 7400,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_package_type",
+      "type": "file",
+      "file": "type.md",
+      "x": 6200,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_package_scripts_typecheck",
+      "type": "file",
+      "file": "typecheck.md",
+      "x": 6400,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_package_devdependencies_typescript",
+      "type": "file",
+      "file": "typescript.md",
+      "x": 6600,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_package_devdependencies_typescript_eslint",
+      "type": "file",
+      "file": "typescript-eslint.md",
+      "x": 6800,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_package_version",
+      "type": "file",
+      "file": "version.md",
+      "x": 7000,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_package_devdependencies_vite",
+      "type": "file",
+      "file": "vite.md",
+      "x": 7200,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g4",
+      "type": "group",
+      "label": "EF Core DB Configuration",
+      "x": 7800,
+      "y": 0,
+      "width": 1540,
+      "height": 720,
+      "color": "5"
+    },
+    {
+      "id": "n_configurations_applicationuserconfiguration_applicationuserconfiguration_configure",
+      "type": "file",
+      "file": ".Configure().md",
+      "x": 7820,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_configurations_productconfiguration_productconfiguration_configure",
+      "type": "file",
+      "file": ".Configure()_1.md",
+      "x": 8020,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_configurations_unitproductconfiguration_unitproductconfiguration_configure",
+      "type": "file",
+      "file": ".Configure()_2.md",
+      "x": 8220,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repositories_iproductrepository_iproductrepository_createasync",
+      "type": "file",
+      "file": ".CreateAsync().md",
+      "x": 8420,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repositories_productrepository_productrepository_createasync",
+      "type": "file",
+      "file": ".CreateAsync()_2.md",
+      "x": 8620,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repositories_iproductrepository_iproductrepository_deleteasync",
+      "type": "file",
+      "file": ".DeleteAsync().md",
+      "x": 8820,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repositories_productrepository_productrepository_deleteasync",
+      "type": "file",
+      "file": ".DeleteAsync()_2.md",
+      "x": 9020,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repositories_iproductrepository_iproductrepository_getallasync",
+      "type": "file",
+      "file": ".GetAllAsync().md",
+      "x": 7820,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repositories_productrepository_productrepository_getallasync",
+      "type": "file",
+      "file": ".GetAllAsync()_2.md",
+      "x": 8020,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repositories_iproductrepository_iproductrepository_getbyidasync",
+      "type": "file",
+      "file": ".GetByIdAsync().md",
+      "x": 8220,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repositories_productrepository_productrepository_getbyidasync",
+      "type": "file",
+      "file": ".GetByIdAsync()_2.md",
+      "x": 8420,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repositories_iproductrepository_iproductrepository_getstockcountasync",
+      "type": "file",
+      "file": ".GetStockCountAsync().md",
+      "x": 8620,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repositories_productrepository_productrepository_getstockcountasync",
+      "type": "file",
+      "file": ".GetStockCountAsync()_1.md",
+      "x": 8820,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_data_appdbcontext_appdbcontext_onmodelcreating",
+      "type": "file",
+      "file": ".OnModelCreating().md",
+      "x": 9020,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_data_dataseeder_dataseeder_seedasync",
+      "type": "file",
+      "file": ".SeedAsync().md",
+      "x": 7820,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repositories_iproductrepository_iproductrepository_updateasync",
+      "type": "file",
+      "file": ".UpdateAsync().md",
+      "x": 8020,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repositories_productrepository_productrepository_updateasync",
+      "type": "file",
+      "file": ".UpdateAsync()_2.md",
+      "x": 8220,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_data_appdbcontext_appdbcontext",
+      "type": "file",
+      "file": "AppDbContext.md",
+      "x": 8420,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_data_appdbcontext",
+      "type": "file",
+      "file": "AppDbContext.cs.md",
+      "x": 8620,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_models_applicationuser_applicationuser",
+      "type": "file",
+      "file": "ApplicationUser.md",
+      "x": 8820,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_models_applicationuser",
+      "type": "file",
+      "file": "ApplicationUser.cs.md",
+      "x": 9020,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_configurations_applicationuserconfiguration_applicationuserconfiguration",
+      "type": "file",
+      "file": "ApplicationUserConfiguration.md",
+      "x": 7820,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_configurations_applicationuserconfiguration",
+      "type": "file",
+      "file": "ApplicationUserConfiguration.cs.md",
+      "x": 8020,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_data_dataseeder_dataseeder",
+      "type": "file",
+      "file": "DataSeeder.md",
+      "x": 8220,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_data_dataseeder",
+      "type": "file",
+      "file": "DataSeeder.cs.md",
+      "x": 8420,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_entitytypebuilder",
+      "type": "file",
+      "file": "EntityTypeBuilder.md",
+      "x": 8620,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ientitytypeconfiguration",
+      "type": "file",
+      "file": "IEntityTypeConfiguration.md",
+      "x": 8820,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ienumerable",
+      "type": "file",
+      "file": "IEnumerable.md",
+      "x": 9020,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repositories_iproductrepository_iproductrepository",
+      "type": "file",
+      "file": "IProductRepository.md",
+      "x": 7820,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repositories_iproductrepository",
+      "type": "file",
+      "file": "IProductRepository.cs.md",
+      "x": 8020,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_identitydbcontext",
+      "type": "file",
+      "file": "IdentityDbContext.md",
+      "x": 8220,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_identityuser",
+      "type": "file",
+      "file": "IdentityUser.md",
+      "x": 8420,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_modelbuilder",
+      "type": "file",
+      "file": "ModelBuilder.md",
+      "x": 8620,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_models_product_product",
+      "type": "file",
+      "file": "Product.md",
+      "x": 8820,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_models_product",
+      "type": "file",
+      "file": "Product.cs.md",
+      "x": 9020,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_configurations_productconfiguration_productconfiguration",
+      "type": "file",
+      "file": "ProductConfiguration.md",
+      "x": 7820,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_configurations_productconfiguration",
+      "type": "file",
+      "file": "ProductConfiguration.cs.md",
+      "x": 8020,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repositories_productrepository_productrepository",
+      "type": "file",
+      "file": "ProductRepository.md",
+      "x": 8220,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repositories_productrepository",
+      "type": "file",
+      "file": "ProductRepository.cs.md",
+      "x": 8420,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_configurations_unitproductconfiguration_unitproductconfiguration",
+      "type": "file",
+      "file": "UnitProductConfiguration.md",
+      "x": 8620,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_configurations_unitproductconfiguration",
+      "type": "file",
+      "file": "UnitProductConfiguration.cs.md",
+      "x": 8820,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g5",
+      "type": "group",
+      "label": "Frontend API Services",
+      "x": 9420,
+      "y": 0,
+      "width": 1320,
+      "height": 720,
+      "color": "6"
+    },
+    {
+      "id": "n_services_api_apirequestoptions",
+      "type": "file",
+      "file": "ApiRequestOptions.md",
+      "x": 9440,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_types_api_apiresponse",
+      "type": "file",
+      "file": "ApiResponse.md",
+      "x": 9640,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_types_api_authresponsedto",
+      "type": "file",
+      "file": "AuthResponseDto_2.md",
+      "x": 9840,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_types_api_createproductdto",
+      "type": "file",
+      "file": "CreateProductDto_2.md",
+      "x": 10040,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_types_api_createunitproductdto",
+      "type": "file",
+      "file": "CreateUnitProductDto_2.md",
+      "x": 10240,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_types_api_logindto",
+      "type": "file",
+      "file": "LoginDto_2.md",
+      "x": 10440,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_types_api_registerdto",
+      "type": "file",
+      "file": "RegisterDto_2.md",
+      "x": 9440,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_types_api_unitproductresponsedto",
+      "type": "file",
+      "file": "UnitProductResponseDto_2.md",
+      "x": 9640,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_types_api_updateproductdto",
+      "type": "file",
+      "file": "UpdateProductDto_2.md",
+      "x": 9840,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_types_api_updateprofiledto",
+      "type": "file",
+      "file": "UpdateProfileDto_2.md",
+      "x": 10040,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_types_api_updateunitproductdto",
+      "type": "file",
+      "file": "UpdateUnitProductDto_2.md",
+      "x": 10240,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_types_api_userinforesponsedto",
+      "type": "file",
+      "file": "UserInfoResponseDto_1.md",
+      "x": 10440,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_api",
+      "type": "file",
+      "file": "api.ts.md",
+      "x": 9440,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_types_api",
+      "type": "file",
+      "file": "api.ts_1.md",
+      "x": 9640,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_api_apifetch",
+      "type": "file",
+      "file": "apiFetch().md",
+      "x": 9840,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_src_services_authservice_ts_services_authservice",
+      "type": "file",
+      "file": "authService.ts.md",
+      "x": 10040,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_productservice_createproduct",
+      "type": "file",
+      "file": "createProduct().md",
+      "x": 10240,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_unitproductservice_createunitproduct",
+      "type": "file",
+      "file": "createUnitProduct().md",
+      "x": 10440,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_productservice_deleteproduct",
+      "type": "file",
+      "file": "deleteProduct().md",
+      "x": 9440,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_unitproductservice_deleteunitproduct",
+      "type": "file",
+      "file": "deleteUnitProduct().md",
+      "x": 9640,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_unitproductservice_getallunitproducts",
+      "type": "file",
+      "file": "getAllUnitProducts().md",
+      "x": 9840,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_api_getauthtoken",
+      "type": "file",
+      "file": "getAuthToken().md",
+      "x": 10040,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_productservice_getproductbyid",
+      "type": "file",
+      "file": "getProductById().md",
+      "x": 10240,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_unitproductservice_getunitproductbyid",
+      "type": "file",
+      "file": "getUnitProductById().md",
+      "x": 10440,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_unitproductservice_getunitproductsbyproductid",
+      "type": "file",
+      "file": "getUnitProductsByProductId().md",
+      "x": 9440,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_authservice_login",
+      "type": "file",
+      "file": "login().md",
+      "x": 9640,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_src_services_productservice_ts_services_productservice",
+      "type": "file",
+      "file": "productService.ts.md",
+      "x": 9840,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_authservice_register",
+      "type": "file",
+      "file": "register().md",
+      "x": 10040,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_src_services_unitproductservice_ts_services_unitproductservice",
+      "type": "file",
+      "file": "unitProductService.ts.md",
+      "x": 10240,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_productservice_updateproduct",
+      "type": "file",
+      "file": "updateProduct().md",
+      "x": 10440,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_authservice_updateprofile",
+      "type": "file",
+      "file": "updateProfile().md",
+      "x": 9440,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_unitproductservice_updateunitproduct",
+      "type": "file",
+      "file": "updateUnitProduct().md",
+      "x": 9640,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g6",
+      "type": "group",
+      "label": "Launch Settings",
+      "x": 10820,
+      "y": 0,
+      "width": 1320,
+      "height": 620,
+      "color": "1"
+    },
+    {
+      "id": "n_properties_launchsettings_schema",
+      "type": "file",
+      "file": "$schema.md",
+      "x": 10840,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_properties_launchsettings_environmentvariables_aspnetcore_environment",
+      "type": "file",
+      "file": "ASPNETCORE_ENVIRONMENT.md",
+      "x": 11040,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_properties_launchsettings_profiles_iis_express",
+      "type": "file",
+      "file": "IIS Express.md",
+      "x": 11240,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_properties_launchsettings_iissettings_anonymousauthentication",
+      "type": "file",
+      "file": "anonymousAuthentication.md",
+      "x": 11440,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_properties_launchsettings_iisexpress_applicationurl",
+      "type": "file",
+      "file": "applicationUrl.md",
+      "x": 11640,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_properties_launchsettings_http_applicationurl",
+      "type": "file",
+      "file": "applicationUrl_1.md",
+      "x": 11840,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_properties_launchsettings_https_applicationurl",
+      "type": "file",
+      "file": "applicationUrl_2.md",
+      "x": 10840,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_properties_launchsettings_http_commandname",
+      "type": "file",
+      "file": "commandName.md",
+      "x": 11040,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_properties_launchsettings_https_commandname",
+      "type": "file",
+      "file": "commandName_1.md",
+      "x": 11240,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_properties_launchsettings_iis_express_commandname",
+      "type": "file",
+      "file": "commandName_2.md",
+      "x": 11440,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_properties_launchsettings_http_dotnetrunmessages",
+      "type": "file",
+      "file": "dotnetRunMessages.md",
+      "x": 11640,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_properties_launchsettings_https_dotnetrunmessages",
+      "type": "file",
+      "file": "dotnetRunMessages_1.md",
+      "x": 11840,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_properties_launchsettings_http_environmentvariables",
+      "type": "file",
+      "file": "environmentVariables.md",
+      "x": 10840,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_properties_launchsettings_https_environmentvariables",
+      "type": "file",
+      "file": "environmentVariables_1.md",
+      "x": 11040,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_properties_launchsettings_iis_express_environmentvariables",
+      "type": "file",
+      "file": "environmentVariables_2.md",
+      "x": 11240,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_properties_launchsettings_profiles_http",
+      "type": "file",
+      "file": "http.md",
+      "x": 11440,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_properties_launchsettings_profiles_https",
+      "type": "file",
+      "file": "https.md",
+      "x": 11640,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_properties_launchsettings_iissettings_iisexpress",
+      "type": "file",
+      "file": "iisExpress.md",
+      "x": 11840,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_properties_launchsettings_iissettings",
+      "type": "file",
+      "file": "iisSettings.md",
+      "x": 10840,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_properties_launchsettings_http_launchbrowser",
+      "type": "file",
+      "file": "launchBrowser.md",
+      "x": 11040,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_properties_launchsettings_https_launchbrowser",
+      "type": "file",
+      "file": "launchBrowser_1.md",
+      "x": 11240,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_properties_launchsettings_iis_express_launchbrowser",
+      "type": "file",
+      "file": "launchBrowser_2.md",
+      "x": 11440,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_properties_launchsettings",
+      "type": "file",
+      "file": "launchSettings.json.md",
+      "x": 11640,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_properties_launchsettings_http_launchurl",
+      "type": "file",
+      "file": "launchUrl.md",
+      "x": 11840,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_properties_launchsettings_https_launchurl",
+      "type": "file",
+      "file": "launchUrl_1.md",
+      "x": 10840,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_properties_launchsettings_iis_express_launchurl",
+      "type": "file",
+      "file": "launchUrl_2.md",
+      "x": 11040,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_properties_launchsettings_profiles",
+      "type": "file",
+      "file": "profiles.md",
+      "x": 11240,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_properties_launchsettings_iisexpress_sslport",
+      "type": "file",
+      "file": "sslPort.md",
+      "x": 11440,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_properties_launchsettings_iissettings_windowsauthentication",
+      "type": "file",
+      "file": "windowsAuthentication.md",
+      "x": 11640,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g7",
+      "type": "group",
+      "label": "Auth & Validation",
+      "x": 0,
+      "y": 1100,
+      "width": 1320,
+      "height": 620,
+      "color": "2"
+    },
+    {
+      "id": "n_services_authservice_authservice_generatetoken",
+      "type": "file",
+      "file": ".GenerateToken().md",
+      "x": 20,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_authservice_authservice_loginasync",
+      "type": "file",
+      "file": ".LoginAsync().md",
+      "x": 220,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_iauthservice_iauthservice_loginasync",
+      "type": "file",
+      "file": ".LoginAsync()_1.md",
+      "x": 420,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_authservice_authservice_registerasync",
+      "type": "file",
+      "file": ".RegisterAsync().md",
+      "x": 620,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_iauthservice_iauthservice_registerasync",
+      "type": "file",
+      "file": ".RegisterAsync()_1.md",
+      "x": 820,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_authservice_authservice_updateprofileasync",
+      "type": "file",
+      "file": ".UpdateProfileAsync().md",
+      "x": 1020,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_iauthservice_iauthservice_updateprofileasync",
+      "type": "file",
+      "file": ".UpdateProfileAsync()_1.md",
+      "x": 20,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_abstractvalidator",
+      "type": "file",
+      "file": "AbstractValidator.md",
+      "x": 220,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_authresponsedto",
+      "type": "file",
+      "file": "AuthResponseDto_1.md",
+      "x": 420,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_authservice_authservice",
+      "type": "file",
+      "file": "AuthService.md",
+      "x": 620,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameapi_services_authservice_cs_services_authservice",
+      "type": "file",
+      "file": "AuthService.cs.md",
+      "x": 820,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_unitproductvalidators_createunitproductvalidator_createunitproductvalidator",
+      "type": "file",
+      "file": "CreateUnitProductValidator.md",
+      "x": 1020,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_unitproductvalidators_createunitproductvalidator",
+      "type": "file",
+      "file": "CreateUnitProductValidator.cs.md",
+      "x": 20,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_iauthservice_iauthservice",
+      "type": "file",
+      "file": "IAuthService.md",
+      "x": 220,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_iauthservice",
+      "type": "file",
+      "file": "IAuthService.cs.md",
+      "x": 420,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_iconfiguration",
+      "type": "file",
+      "file": "IConfiguration.md",
+      "x": 620,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_logindto",
+      "type": "file",
+      "file": "LoginDto.md",
+      "x": 820,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_authvalidators_cs_loginvalidator_loginvalidator",
+      "type": "file",
+      "file": "LoginValidator.md",
+      "x": 1020,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_authvalidators_cs_loginvalidator",
+      "type": "file",
+      "file": "LoginValidator.cs.md",
+      "x": 20,
+      "y": 1420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_registerdto",
+      "type": "file",
+      "file": "RegisterDto.md",
+      "x": 220,
+      "y": 1420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_authvalidators_cs_registervalidator_registervalidator",
+      "type": "file",
+      "file": "RegisterValidator.md",
+      "x": 420,
+      "y": 1420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_authvalidators_cs_registervalidator",
+      "type": "file",
+      "file": "RegisterValidator.cs.md",
+      "x": 620,
+      "y": 1420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_updateprofiledto",
+      "type": "file",
+      "file": "UpdateProfileDto.md",
+      "x": 820,
+      "y": 1420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_authvalidators_cs_updateprofilevalidator_updateprofilevalidator",
+      "type": "file",
+      "file": "UpdateProfileValidator.md",
+      "x": 1020,
+      "y": 1420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_authvalidators_cs_updateprofilevalidator",
+      "type": "file",
+      "file": "UpdateProfileValidator.cs.md",
+      "x": 20,
+      "y": 1500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_unitproductvalidators_updateunitproductvalidator_updateunitproductvalidator",
+      "type": "file",
+      "file": "UpdateUnitProductValidator.md",
+      "x": 220,
+      "y": 1500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_unitproductvalidators_updateunitproductvalidator",
+      "type": "file",
+      "file": "UpdateUnitProductValidator.cs.md",
+      "x": 420,
+      "y": 1500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g8",
+      "type": "group",
+      "label": "shadcn/ui Config",
+      "x": 2280,
+      "y": 1100,
+      "width": 1100,
+      "height": 620,
+      "color": "3"
+    },
+    {
+      "id": "n_battleshipsgameui_components_schema",
+      "type": "file",
+      "file": "$schema_1.md",
+      "x": 2300,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_components_aliases",
+      "type": "file",
+      "file": "aliases.md",
+      "x": 2500,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_components_tailwind_basecolor",
+      "type": "file",
+      "file": "baseColor.md",
+      "x": 2700,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_components_aliases_components",
+      "type": "file",
+      "file": "components.md",
+      "x": 2900,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_components",
+      "type": "file",
+      "file": "components.json.md",
+      "x": 3100,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_components_tailwind_config",
+      "type": "file",
+      "file": "config.md",
+      "x": 2300,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_components_tailwind_css",
+      "type": "file",
+      "file": "css.md",
+      "x": 2500,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_components_tailwind_cssvariables",
+      "type": "file",
+      "file": "cssVariables.md",
+      "x": 2700,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_components_aliases_hooks",
+      "type": "file",
+      "file": "hooks.md",
+      "x": 2900,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_components_iconlibrary",
+      "type": "file",
+      "file": "iconLibrary.md",
+      "x": 3100,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_components_aliases_lib",
+      "type": "file",
+      "file": "lib.md",
+      "x": 2300,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_components_menuaccent",
+      "type": "file",
+      "file": "menuAccent.md",
+      "x": 2500,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_components_menucolor",
+      "type": "file",
+      "file": "menuColor.md",
+      "x": 2700,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_components_tailwind_prefix",
+      "type": "file",
+      "file": "prefix.md",
+      "x": 2900,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_components_registries",
+      "type": "file",
+      "file": "registries.md",
+      "x": 3100,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_components_rsc",
+      "type": "file",
+      "file": "rsc.md",
+      "x": 2300,
+      "y": 1420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_components_rtl",
+      "type": "file",
+      "file": "rtl.md",
+      "x": 2500,
+      "y": 1420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_components_style",
+      "type": "file",
+      "file": "style.md",
+      "x": 2700,
+      "y": 1420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_components_tailwind",
+      "type": "file",
+      "file": "tailwind.md",
+      "x": 2900,
+      "y": 1420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_components_tsx",
+      "type": "file",
+      "file": "tsx.md",
+      "x": 3100,
+      "y": 1420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_components_aliases_ui",
+      "type": "file",
+      "file": "ui.md",
+      "x": 2300,
+      "y": 1500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_components_aliases_utils",
+      "type": "file",
+      "file": "utils.md",
+      "x": 2500,
+      "y": 1500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g9",
+      "type": "group",
+      "label": "Architecture Concepts",
+      "x": 4340,
+      "y": 1100,
+      "width": 1100,
+      "height": 620,
+      "color": "4"
+    },
+    {
+      "id": "n_readme_aspnet_identity",
+      "type": "file",
+      "file": "ASP.NET Core Identity.md",
+      "x": 4360,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_aspnet_web_api",
+      "type": "file",
+      "file": "ASP.NET Web API (Battleships Backend).md",
+      "x": 4560,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_appdbcontext",
+      "type": "file",
+      "file": "AppDbContext (EF Core).md",
+      "x": 4760,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_automapper",
+      "type": "file",
+      "file": "AutoMapper DTO Mapping.md",
+      "x": 4960,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_readme_frontend",
+      "type": "file",
+      "file": "Battleships UI (React + Vite + shadcnui).md",
+      "x": 5160,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_clean_architecture",
+      "type": "file",
+      "file": "Clean Architecture Layering.md",
+      "x": 4360,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_config_override_chain",
+      "type": "file",
+      "file": "Configuration Override Chain.md",
+      "x": 4560,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_api_response_wrapper",
+      "type": "file",
+      "file": "Consistent API Response Wrapper.md",
+      "x": 4760,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_controller_layer",
+      "type": "file",
+      "file": "Controller Layer.md",
+      "x": 4960,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_dto",
+      "type": "file",
+      "file": "Data Transfer Objects (DTOs).md",
+      "x": 5160,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_database_seeding",
+      "type": "file",
+      "file": "Database Seeding (Development).md",
+      "x": 4360,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_fluentvalidation",
+      "type": "file",
+      "file": "FluentValidation Request Validation.md",
+      "x": 4560,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_global_exception_handler",
+      "type": "file",
+      "file": "Global Exception Handler.md",
+      "x": 4760,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_jwt_authentication",
+      "type": "file",
+      "file": "JWT Bearer Authentication.md",
+      "x": 4960,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_mysql",
+      "type": "file",
+      "file": "MySQL Database.md",
+      "x": 5160,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_database_provider_selection",
+      "type": "file",
+      "file": "Provider-Agnostic Database Selection.md",
+      "x": 4360,
+      "y": 1420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_repository_layer",
+      "type": "file",
+      "file": "Repository Layer.md",
+      "x": 4560,
+      "y": 1420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_request_lifecycle",
+      "type": "file",
+      "file": "Request Lifecycle Pipeline.md",
+      "x": 4760,
+      "y": 1420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_sqlite",
+      "type": "file",
+      "file": "SQLite Database.md",
+      "x": 4960,
+      "y": 1420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_service_layer",
+      "type": "file",
+      "file": "Service (Business Logic) Layer.md",
+      "x": 5160,
+      "y": 1420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_swagger",
+      "type": "file",
+      "file": "Swagger  OpenAPI Docs.md",
+      "x": 4360,
+      "y": 1500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_index_entrypoint",
+      "type": "file",
+      "file": "UI HTML Entry Point.md",
+      "x": 4560,
+      "y": 1500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g10",
+      "type": "group",
+      "label": "TS App Config",
+      "x": 6180,
+      "y": 1100,
+      "width": 1100,
+      "height": 620,
+      "color": "5"
+    },
+    {
+      "id": "n_battleshipsgameui_tsconfig_app_paths",
+      "type": "file",
+      "file": "unnamed.md",
+      "x": 6200,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_tsconfig_app_compileroptions_allowimportingtsextensions",
+      "type": "file",
+      "file": "allowImportingTsExtensions.md",
+      "x": 6400,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_tsconfig_app_compileroptions",
+      "type": "file",
+      "file": "compilerOptions.md",
+      "x": 6600,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_tsconfig_app_compileroptions_erasablesyntaxonly",
+      "type": "file",
+      "file": "erasableSyntaxOnly.md",
+      "x": 6800,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_tsconfig_app_include",
+      "type": "file",
+      "file": "include.md",
+      "x": 7000,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_tsconfig_app_compileroptions_jsx",
+      "type": "file",
+      "file": "jsx.md",
+      "x": 6200,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_tsconfig_app_compileroptions_lib",
+      "type": "file",
+      "file": "lib_1.md",
+      "x": 6400,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_tsconfig_app_compileroptions_module",
+      "type": "file",
+      "file": "module.md",
+      "x": 6600,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_tsconfig_app_compileroptions_moduledetection",
+      "type": "file",
+      "file": "moduleDetection.md",
+      "x": 6800,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_tsconfig_app_compileroptions_moduleresolution",
+      "type": "file",
+      "file": "moduleResolution.md",
+      "x": 7000,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_tsconfig_app_compileroptions_noemit",
+      "type": "file",
+      "file": "noEmit.md",
+      "x": 6200,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_tsconfig_app_compileroptions_nofallthroughcasesinswitch",
+      "type": "file",
+      "file": "noFallthroughCasesInSwitch.md",
+      "x": 6400,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_tsconfig_app_compileroptions_nounusedlocals",
+      "type": "file",
+      "file": "noUnusedLocals.md",
+      "x": 6600,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_tsconfig_app_compileroptions_nounusedparameters",
+      "type": "file",
+      "file": "noUnusedParameters.md",
+      "x": 6800,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_tsconfig_app_compileroptions_paths",
+      "type": "file",
+      "file": "paths.md",
+      "x": 7000,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_tsconfig_app_compileroptions_skiplibcheck",
+      "type": "file",
+      "file": "skipLibCheck.md",
+      "x": 6200,
+      "y": 1420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_tsconfig_app_compileroptions_strict",
+      "type": "file",
+      "file": "strict.md",
+      "x": 6400,
+      "y": 1420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_tsconfig_app_compileroptions_target",
+      "type": "file",
+      "file": "target.md",
+      "x": 6600,
+      "y": 1420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_tsconfig_app_compileroptions_tsbuildinfofile",
+      "type": "file",
+      "file": "tsBuildInfoFile.md",
+      "x": 6800,
+      "y": 1420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_tsconfig_app",
+      "type": "file",
+      "file": "tsconfig.app.json.md",
+      "x": 7000,
+      "y": 1420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_tsconfig_app_compileroptions_types",
+      "type": "file",
+      "file": "types.md",
+      "x": 6200,
+      "y": 1500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_tsconfig_app_compileroptions_verbatimmodulesyntax",
+      "type": "file",
+      "file": "verbatimModuleSyntax.md",
+      "x": 6400,
+      "y": 1500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g11",
+      "type": "group",
+      "label": "TS Node Config",
+      "x": 7800,
+      "y": 1100,
+      "width": 1100,
+      "height": 520,
+      "color": "6"
+    },
+    {
+      "id": "n_battleshipsgameui_tsconfig_node_compileroptions_allowimportingtsextensions",
+      "type": "file",
+      "file": "allowImportingTsExtensions_1.md",
+      "x": 7820,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_tsconfig_node_compileroptions",
+      "type": "file",
+      "file": "compilerOptions_2.md",
+      "x": 8020,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_tsconfig_node_compileroptions_erasablesyntaxonly",
+      "type": "file",
+      "file": "erasableSyntaxOnly_1.md",
+      "x": 8220,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_tsconfig_node_include",
+      "type": "file",
+      "file": "include_1.md",
+      "x": 8420,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_tsconfig_node_compileroptions_lib",
+      "type": "file",
+      "file": "lib_2.md",
+      "x": 8620,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_tsconfig_node_compileroptions_module",
+      "type": "file",
+      "file": "module_1.md",
+      "x": 7820,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_tsconfig_node_compileroptions_moduledetection",
+      "type": "file",
+      "file": "moduleDetection_1.md",
+      "x": 8020,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_tsconfig_node_compileroptions_moduleresolution",
+      "type": "file",
+      "file": "moduleResolution_1.md",
+      "x": 8220,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_tsconfig_node_compileroptions_noemit",
+      "type": "file",
+      "file": "noEmit_1.md",
+      "x": 8420,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_tsconfig_node_compileroptions_nofallthroughcasesinswitch",
+      "type": "file",
+      "file": "noFallthroughCasesInSwitch_1.md",
+      "x": 8620,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_tsconfig_node_compileroptions_nounusedlocals",
+      "type": "file",
+      "file": "noUnusedLocals_1.md",
+      "x": 7820,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_tsconfig_node_compileroptions_nounusedparameters",
+      "type": "file",
+      "file": "noUnusedParameters_1.md",
+      "x": 8020,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_tsconfig_node_compileroptions_skiplibcheck",
+      "type": "file",
+      "file": "skipLibCheck_1.md",
+      "x": 8220,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_tsconfig_node_compileroptions_target",
+      "type": "file",
+      "file": "target_1.md",
+      "x": 8420,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_tsconfig_node_compileroptions_tsbuildinfofile",
+      "type": "file",
+      "file": "tsBuildInfoFile_1.md",
+      "x": 8620,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_tsconfig_node",
+      "type": "file",
+      "file": "tsconfig.node.json.md",
+      "x": 7820,
+      "y": 1420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_tsconfig_node_compileroptions_types",
+      "type": "file",
+      "file": "types_1.md",
+      "x": 8020,
+      "y": 1420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_tsconfig_node_compileroptions_verbatimmodulesyntax",
+      "type": "file",
+      "file": "verbatimModuleSyntax_1.md",
+      "x": 8220,
+      "y": 1420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g12",
+      "type": "group",
+      "label": "Backend NuGet Packages",
+      "x": 9420,
+      "y": 1100,
+      "width": 880,
+      "height": 520,
+      "color": "1"
+    },
+    {
+      "id": "n_nuget_automapper",
+      "type": "file",
+      "file": "AutoMapper (12.0.1).md",
+      "x": 9440,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_nuget_automapper_extensions_microsoft_dependencyinjection",
+      "type": "file",
+      "file": "AutoMapper.Extensions.Microsoft.DependencyInjection (12.0.1).md",
+      "x": 9640,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_nuget_fluentvalidation_aspnetcore",
+      "type": "file",
+      "file": "FluentValidation.AspNetCore (11.3.1).md",
+      "x": 9840,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_nuget_microsoft_aspnetcore_authentication_jwtbearer",
+      "type": "file",
+      "file": "Microsoft.AspNetCore.Authentication.JwtBearer (8.0.13).md",
+      "x": 10040,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_nuget_microsoft_aspnetcore_identity_entityframeworkcore",
+      "type": "file",
+      "file": "Microsoft.AspNetCore.Identity.EntityFrameworkCore (8.0.13).md",
+      "x": 9440,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_nuget_microsoft_aspnetcore_openapi",
+      "type": "file",
+      "file": "Microsoft.AspNetCore.OpenApi (8.0.27).md",
+      "x": 9640,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_nuget_microsoft_entityframeworkcore",
+      "type": "file",
+      "file": "Microsoft.EntityFrameworkCore (8.0.13).md",
+      "x": 9840,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_nuget_microsoft_entityframeworkcore_sqlite",
+      "type": "file",
+      "file": "Microsoft.EntityFrameworkCore.Sqlite (8.0.13).md",
+      "x": 10040,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_nuget_microsoft_entityframeworkcore_tools",
+      "type": "file",
+      "file": "Microsoft.EntityFrameworkCore.Tools (8.0.13).md",
+      "x": 9440,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_sdk_microsoft_net_sdk_web",
+      "type": "file",
+      "file": "Microsoft.NET.Sdk.Web.md",
+      "x": 9640,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_nuget_pomelo_entityframeworkcore_mysql",
+      "type": "file",
+      "file": "Pomelo.EntityFrameworkCore.MySql (8.0.3).md",
+      "x": 9840,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameapi_productcatalogapi",
+      "type": "file",
+      "file": "ProductCatalogApi.csproj.md",
+      "x": 10040,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_nuget_swashbuckle_aspnetcore",
+      "type": "file",
+      "file": "Swashbuckle.AspNetCore (6.6.2).md",
+      "x": 9440,
+      "y": 1420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_nuget_system_identitymodel_tokens_jwt",
+      "type": "file",
+      "file": "System.IdentityModel.Tokens.Jwt (8.2.1).md",
+      "x": 9640,
+      "y": 1420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_framework_net8_0",
+      "type": "file",
+      "file": "net8.0.md",
+      "x": 9840,
+      "y": 1420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g13",
+      "type": "group",
+      "label": "Database Seeders",
+      "x": 10820,
+      "y": 1100,
+      "width": 880,
+      "height": 520,
+      "color": "2"
+    },
+    {
+      "id": "n_seeders_applicationuserseeder_applicationuserseeder_seedasync",
+      "type": "file",
+      "file": ".SeedAsync()_1.md",
+      "x": 10840,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_seeders_iseeder_iseeder_seedasync",
+      "type": "file",
+      "file": ".SeedAsync()_2.md",
+      "x": 11040,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_seeders_productseeder_productseeder_seedasync",
+      "type": "file",
+      "file": ".SeedAsync()_3.md",
+      "x": 11240,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_seeders_unitproductseeder_unitproductseeder_seedasync",
+      "type": "file",
+      "file": ".SeedAsync()_4.md",
+      "x": 11440,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_seeders_applicationuserseeder_applicationuserseeder",
+      "type": "file",
+      "file": "ApplicationUserSeeder.md",
+      "x": 10840,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_seeders_applicationuserseeder",
+      "type": "file",
+      "file": "ApplicationUserSeeder.cs.md",
+      "x": 11040,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_seeders_iseeder_iseeder",
+      "type": "file",
+      "file": "ISeeder.md",
+      "x": 11240,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_seeders_iseeder",
+      "type": "file",
+      "file": "ISeeder.cs.md",
+      "x": 11440,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_seeders_productseeder_productseeder",
+      "type": "file",
+      "file": "ProductSeeder.md",
+      "x": 10840,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_seeders_productseeder",
+      "type": "file",
+      "file": "ProductSeeder.cs.md",
+      "x": 11040,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_seeders_unitproductseeder_unitproductseeder",
+      "type": "file",
+      "file": "UnitProductSeeder.md",
+      "x": 11240,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_seeders_unitproductseeder",
+      "type": "file",
+      "file": "UnitProductSeeder.cs.md",
+      "x": 11440,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_usermanager",
+      "type": "file",
+      "file": "UserManager.md",
+      "x": 10840,
+      "y": 1420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g14",
+      "type": "group",
+      "label": "Theme Provider",
+      "x": 0,
+      "y": 1800,
+      "width": 880,
+      "height": 420,
+      "color": "3"
+    },
+    {
+      "id": "n_components_theme_provider_resolvedtheme",
+      "type": "file",
+      "file": "ResolvedTheme.md",
+      "x": 20,
+      "y": 1880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_theme_provider_theme_values",
+      "type": "file",
+      "file": "THEME_VALUES.md",
+      "x": 220,
+      "y": 1880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_theme_provider_theme",
+      "type": "file",
+      "file": "Theme.md",
+      "x": 420,
+      "y": 1880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_theme_provider_themeprovidercontext",
+      "type": "file",
+      "file": "ThemeProviderContext.md",
+      "x": 620,
+      "y": 1880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_theme_provider_themeproviderprops",
+      "type": "file",
+      "file": "ThemeProviderProps.md",
+      "x": 20,
+      "y": 1960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_theme_provider_themeproviderstate",
+      "type": "file",
+      "file": "ThemeProviderState.md",
+      "x": 220,
+      "y": 1960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_theme_provider_disabletransitionstemporarily",
+      "type": "file",
+      "file": "disableTransitionsTemporarily().md",
+      "x": 420,
+      "y": 1960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_theme_provider_getsystemtheme",
+      "type": "file",
+      "file": "getSystemTheme().md",
+      "x": 620,
+      "y": 1960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_theme_provider_iseditabletarget",
+      "type": "file",
+      "file": "isEditableTarget().md",
+      "x": 20,
+      "y": 2040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_theme_provider_istheme",
+      "type": "file",
+      "file": "isTheme().md",
+      "x": 220,
+      "y": 2040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_theme_provider",
+      "type": "file",
+      "file": "theme-provider.tsx.md",
+      "x": 420,
+      "y": 2040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_theme_provider_usetheme",
+      "type": "file",
+      "file": "useTheme().md",
+      "x": 620,
+      "y": 2040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g15",
+      "type": "group",
+      "label": "Obsidian Plugin Manifest",
+      "x": 2280,
+      "y": 1800,
+      "width": 880,
+      "height": 420,
+      "color": "4"
+    },
+    {
+      "id": "n_obsidian42_brat_manifest_fundingurl_visit_my_site",
+      "type": "file",
+      "file": "Visit my site.md",
+      "x": 2300,
+      "y": 1880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_manifest_author",
+      "type": "file",
+      "file": "author.md",
+      "x": 2500,
+      "y": 1880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_manifest_authorurl",
+      "type": "file",
+      "file": "authorUrl.md",
+      "x": 2700,
+      "y": 1880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_manifest_description",
+      "type": "file",
+      "file": "description.md",
+      "x": 2900,
+      "y": 1880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_manifest_fundingurl",
+      "type": "file",
+      "file": "fundingUrl.md",
+      "x": 2300,
+      "y": 1960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_manifest_helpurl",
+      "type": "file",
+      "file": "helpUrl.md",
+      "x": 2500,
+      "y": 1960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_manifest_id",
+      "type": "file",
+      "file": "id.md",
+      "x": 2700,
+      "y": 1960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_manifest_isdesktoponly",
+      "type": "file",
+      "file": "isDesktopOnly.md",
+      "x": 2900,
+      "y": 1960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_manifest",
+      "type": "file",
+      "file": "manifest.json.md",
+      "x": 2300,
+      "y": 2040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_manifest_minappversion",
+      "type": "file",
+      "file": "minAppVersion.md",
+      "x": 2500,
+      "y": 2040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_manifest_name",
+      "type": "file",
+      "file": "name_1.md",
+      "x": 2700,
+      "y": 2040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian42_brat_manifest_version",
+      "type": "file",
+      "file": "version_1.md",
+      "x": 2900,
+      "y": 2040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g16",
+      "type": "group",
+      "label": "Global Exception Handling",
+      "x": 4340,
+      "y": 1800,
+      "width": 880,
+      "height": 420,
+      "color": "5"
+    },
+    {
+      "id": "n_exceptions_globalexceptionhandler_globalexceptionhandler_getmessagefromstatuscode",
+      "type": "file",
+      "file": ".GetMessageFromStatusCode().md",
+      "x": 4360,
+      "y": 1880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_exceptions_globalexceptionhandler_globalexceptionhandler_tryhandleasync",
+      "type": "file",
+      "file": ".TryHandleAsync().md",
+      "x": 4560,
+      "y": 1880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_cancellationtoken",
+      "type": "file",
+      "file": "CancellationToken.md",
+      "x": 4760,
+      "y": 1880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_exception",
+      "type": "file",
+      "file": "Exception.md",
+      "x": 4960,
+      "y": 1880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_exceptions_globalexceptionhandler_globalexceptionhandler",
+      "type": "file",
+      "file": "GlobalExceptionHandler.md",
+      "x": 4360,
+      "y": 1960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_exceptions_globalexceptionhandler",
+      "type": "file",
+      "file": "GlobalExceptionHandler.cs.md",
+      "x": 4560,
+      "y": 1960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_httpcontext",
+      "type": "file",
+      "file": "HttpContext.md",
+      "x": 4760,
+      "y": 1960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_httpstatuscode",
+      "type": "file",
+      "file": "HttpStatusCode.md",
+      "x": 4960,
+      "y": 1960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_iexceptionhandler",
+      "type": "file",
+      "file": "IExceptionHandler.md",
+      "x": 4360,
+      "y": 2040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ilogger",
+      "type": "file",
+      "file": "ILogger.md",
+      "x": 4560,
+      "y": 2040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_valuetask",
+      "type": "file",
+      "file": "ValueTask.md",
+      "x": 4760,
+      "y": 2040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g17",
+      "type": "group",
+      "label": "AutoMapper Profiles",
+      "x": 6180,
+      "y": 1800,
+      "width": 660,
+      "height": 420,
+      "color": "6"
+    },
+    {
+      "id": "n_profiles_applicationuserprofile_applicationuserprofile",
+      "type": "file",
+      "file": "ApplicationUserProfile.md",
+      "x": 6200,
+      "y": 1880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_profiles_applicationuserprofile",
+      "type": "file",
+      "file": "ApplicationUserProfile.cs.md",
+      "x": 6400,
+      "y": 1880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_profiles_productprofile_productprofile",
+      "type": "file",
+      "file": "ProductProfile.md",
+      "x": 6600,
+      "y": 1880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_profiles_productprofile",
+      "type": "file",
+      "file": "ProductProfile.cs.md",
+      "x": 6200,
+      "y": 1960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_profile",
+      "type": "file",
+      "file": "Profile.md",
+      "x": 6400,
+      "y": 1960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_profiles_unitproductprofile_unitproductprofile",
+      "type": "file",
+      "file": "UnitProductProfile.md",
+      "x": 6600,
+      "y": 1960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_profiles_unitproductprofile",
+      "type": "file",
+      "file": "UnitProductProfile.cs.md",
+      "x": 6200,
+      "y": 2040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g18",
+      "type": "group",
+      "label": "TS Base Config",
+      "x": 7800,
+      "y": 1800,
+      "width": 660,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "n_battleshipsgameui_tsconfig_paths",
+      "type": "file",
+      "file": "unnamed_1.md",
+      "x": 7820,
+      "y": 1880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_tsconfig_compileroptions",
+      "type": "file",
+      "file": "compilerOptions_1.md",
+      "x": 8020,
+      "y": 1880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_tsconfig_files",
+      "type": "file",
+      "file": "files.md",
+      "x": 8220,
+      "y": 1880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_tsconfig_compileroptions_paths",
+      "type": "file",
+      "file": "paths_1.md",
+      "x": 7820,
+      "y": 1960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_tsconfig_references",
+      "type": "file",
+      "file": "references.md",
+      "x": 8020,
+      "y": 1960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_battleshipsgameui_tsconfig",
+      "type": "file",
+      "file": "tsconfig.json.md",
+      "x": 8220,
+      "y": 1960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g19",
+      "type": "group",
+      "label": "API Response Wrapper",
+      "x": 9420,
+      "y": 1800,
+      "width": 660,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "n_dtos_apiresponsedto_apiresponsedto_errorresult",
+      "type": "file",
+      "file": ".ErrorResult().md",
+      "x": 9440,
+      "y": 1880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_dtos_apiresponsedto_apiresponsedto_successresult",
+      "type": "file",
+      "file": ".SuccessResult().md",
+      "x": 9640,
+      "y": 1880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_dtos_apiresponsedto_apiresponsedto",
+      "type": "file",
+      "file": "ApiResponseDto.md",
+      "x": 9840,
+      "y": 1880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_dtos_apiresponsedto",
+      "type": "file",
+      "file": "ApiResponseDto.cs.md",
+      "x": 9440,
+      "y": 1960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_t",
+      "type": "file",
+      "file": "T.md",
+      "x": 9640,
+      "y": 1960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g20",
+      "type": "group",
+      "label": "React Branding",
+      "x": 10820,
+      "y": 1800,
+      "width": 600,
+      "height": 400,
+      "color": "3"
+    },
+    {
+      "id": "n_assets_react_react_framework",
+      "type": "file",
+      "file": "React (JavaScript Library).md",
+      "x": 10840,
+      "y": 1880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_assets_react_logo",
+      "type": "file",
+      "file": "React Logo (SVG).md",
+      "x": 11040,
+      "y": 1880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g21",
+      "type": "group",
+      "label": "Auth Response DTO",
+      "x": 0,
+      "y": 2300,
+      "width": 600,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "n_authdtos_authresponsedto_authresponsedto",
+      "type": "file",
+      "file": "AuthResponseDto.md",
+      "x": 20,
+      "y": 2380,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_authdtos_authresponsedto",
+      "type": "file",
+      "file": "AuthResponseDto.cs.md",
+      "x": 220,
+      "y": 2380,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g22",
+      "type": "group",
+      "label": "Login DTO",
+      "x": 2280,
+      "y": 2300,
+      "width": 600,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "n_authdtos_logindto_logindto",
+      "type": "file",
+      "file": "LoginDto_1.md",
+      "x": 2300,
+      "y": 2380,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_authdtos_logindto",
+      "type": "file",
+      "file": "LoginDto.cs.md",
+      "x": 2500,
+      "y": 2380,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g23",
+      "type": "group",
+      "label": "Register DTO",
+      "x": 4340,
+      "y": 2300,
+      "width": 600,
+      "height": 400,
+      "color": "6"
+    },
+    {
+      "id": "n_authdtos_registerdto_registerdto",
+      "type": "file",
+      "file": "RegisterDto_1.md",
+      "x": 4360,
+      "y": 2380,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_authdtos_registerdto",
+      "type": "file",
+      "file": "RegisterDto.cs.md",
+      "x": 4560,
+      "y": 2380,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g24",
+      "type": "group",
+      "label": "Update Profile DTO",
+      "x": 6180,
+      "y": 2300,
+      "width": 600,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "n_authdtos_updateprofiledto_updateprofiledto",
+      "type": "file",
+      "file": "UpdateProfileDto_1.md",
+      "x": 6200,
+      "y": 2380,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_authdtos_updateprofiledto",
+      "type": "file",
+      "file": "UpdateProfileDto.cs.md",
+      "x": 6400,
+      "y": 2380,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g25",
+      "type": "group",
+      "label": "User Info DTO",
+      "x": 7800,
+      "y": 2300,
+      "width": 600,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "n_authdtos_userinforesponsedto_userinforesponsedto",
+      "type": "file",
+      "file": "UserInfoResponseDto.md",
+      "x": 7820,
+      "y": 2380,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_authdtos_userinforesponsedto",
+      "type": "file",
+      "file": "UserInfoResponseDto.cs.md",
+      "x": 8020,
+      "y": 2380,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g26",
+      "type": "group",
+      "label": "Solution File",
+      "x": 9420,
+      "y": 2300,
+      "width": 600,
+      "height": 400,
+      "color": "3"
+    },
+    {
+      "id": "n_e_documentation_job_formulatrix_battleshipsgamewebapp_battlesshipsgameapi_battlesshipsgameapi_csproj",
+      "type": "file",
+      "file": "BattlesShipsGameApi.md",
+      "x": 9440,
+      "y": 2380,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_productcatalopapi",
+      "type": "file",
+      "file": "ProductCatalopApi.sln.md",
+      "x": 9640,
+      "y": 2380,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g27",
+      "type": "group",
+      "label": "Create Product DTO",
+      "x": 10820,
+      "y": 2300,
+      "width": 600,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "n_productdtos_createproductdto_createproductdto",
+      "type": "file",
+      "file": "CreateProductDto_1.md",
+      "x": 10840,
+      "y": 2380,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_productdtos_createproductdto",
+      "type": "file",
+      "file": "CreateProductDto.cs.md",
+      "x": 11040,
+      "y": 2380,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g28",
+      "type": "group",
+      "label": "Product Response DTO",
+      "x": 0,
+      "y": 2780,
+      "width": 600,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "n_productdtos_productresponsedto_productresponsedto",
+      "type": "file",
+      "file": "ProductResponseDto.md",
+      "x": 20,
+      "y": 2860,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_productdtos_productresponsedto",
+      "type": "file",
+      "file": "ProductResponseDto.cs.md",
+      "x": 220,
+      "y": 2860,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g29",
+      "type": "group",
+      "label": "Update Product DTO",
+      "x": 2280,
+      "y": 2780,
+      "width": 600,
+      "height": 400,
+      "color": "6"
+    },
+    {
+      "id": "n_productdtos_updateproductdto_updateproductdto",
+      "type": "file",
+      "file": "UpdateProductDto_1.md",
+      "x": 2300,
+      "y": 2860,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_productdtos_updateproductdto",
+      "type": "file",
+      "file": "UpdateProductDto.cs.md",
+      "x": 2500,
+      "y": 2860,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g30",
+      "type": "group",
+      "label": "Vite Branding",
+      "x": 4340,
+      "y": 2780,
+      "width": 600,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "n_public_vite_buildtool",
+      "type": "file",
+      "file": "Vite Build Tool.md",
+      "x": 4360,
+      "y": 2860,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_public_vite_logo",
+      "type": "file",
+      "file": "Vite Logo (SVG).md",
+      "x": 4560,
+      "y": 2860,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g31",
+      "type": "group",
+      "label": "Create Unit Product DTO",
+      "x": 6180,
+      "y": 2780,
+      "width": 600,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "n_unitproductdtos_createunitproductdto_createunitproductdto",
+      "type": "file",
+      "file": "CreateUnitProductDto_1.md",
+      "x": 6200,
+      "y": 2860,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_unitproductdtos_createunitproductdto",
+      "type": "file",
+      "file": "CreateUnitProductDto.cs.md",
+      "x": 6400,
+      "y": 2860,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g32",
+      "type": "group",
+      "label": "Unit Product Response DTO",
+      "x": 7800,
+      "y": 2780,
+      "width": 600,
+      "height": 400,
+      "color": "3"
+    },
+    {
+      "id": "n_unitproductdtos_unitproductresponsedto_unitproductresponsedto",
+      "type": "file",
+      "file": "UnitProductResponseDto.md",
+      "x": 7820,
+      "y": 2860,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_unitproductdtos_unitproductresponsedto",
+      "type": "file",
+      "file": "UnitProductResponseDto.cs.md",
+      "x": 8020,
+      "y": 2860,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g33",
+      "type": "group",
+      "label": "Update Unit Product DTO",
+      "x": 9420,
+      "y": 2780,
+      "width": 600,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "n_unitproductdtos_updateunitproductdto_updateunitproductdto",
+      "type": "file",
+      "file": "UpdateUnitProductDto_1.md",
+      "x": 9440,
+      "y": 2860,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_unitproductdtos_updateunitproductdto",
+      "type": "file",
+      "file": "UpdateUnitProductDto.cs.md",
+      "x": 9640,
+      "y": 2860,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g34",
+      "type": "group",
+      "label": "App Entry Point",
+      "x": 10820,
+      "y": 2780,
+      "width": 600,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "n_battleshipsgameapi_program",
+      "type": "file",
+      "file": "Program.cs.md",
+      "x": 10840,
+      "y": 2860,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g35",
+      "type": "group",
+      "label": "ESLint Config",
+      "x": 0,
+      "y": 3260,
+      "width": 600,
+      "height": 400,
+      "color": "6"
+    },
+    {
+      "id": "n_battleshipsgameui_eslint_config",
+      "type": "file",
+      "file": "eslint.config.js.md",
+      "x": 20,
+      "y": 3340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g36",
+      "type": "group",
+      "label": "Vite Config",
+      "x": 2280,
+      "y": 3260,
+      "width": 600,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "n_battleshipsgameui_vite_config",
+      "type": "file",
+      "file": "vite.config.ts.md",
+      "x": 2300,
+      "y": 3340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g37",
+      "type": "group",
+      "label": "App Config",
+      "x": 4340,
+      "y": 3260,
+      "width": 600,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "n_obsidian_app",
+      "type": "file",
+      "file": "app.json.md",
+      "x": 4360,
+      "y": 3340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g38",
+      "type": "group",
+      "label": "Obsidian Welcome Note",
+      "x": 6180,
+      "y": 3260,
+      "width": 600,
+      "height": 400,
+      "color": "3"
+    },
+    {
+      "id": "n_obsidianvault_welcome_note",
+      "type": "file",
+      "file": "Obsidian Vault Welcome Note.md",
+      "x": 6200,
+      "y": 3340,
+      "width": 180,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_configurations_applicationuserconfiguration_configurations_applicationuserconfiguration_applicationuserconfiguration",
+      "fromNode": "n_configurations_applicationuserconfiguration",
+      "toNode": "n_configurations_applicationuserconfiguration_applicationuserconfiguration",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_configurations_applicationuserconfiguration_applicationuserconfiguration_configurations_applicationuserconfiguration_applicationuserconfiguration_configure",
+      "fromNode": "n_configurations_applicationuserconfiguration_applicationuserconfiguration",
+      "toNode": "n_configurations_applicationuserconfiguration_applicationuserconfiguration_configure",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_configurations_applicationuserconfiguration_applicationuserconfiguration_ientitytypeconfiguration",
+      "fromNode": "n_configurations_applicationuserconfiguration_applicationuserconfiguration",
+      "toNode": "n_ientitytypeconfiguration",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_configurations_applicationuserconfiguration_applicationuserconfiguration_models_applicationuser_applicationuser",
+      "fromNode": "n_configurations_applicationuserconfiguration_applicationuserconfiguration",
+      "toNode": "n_models_applicationuser_applicationuser",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_ientitytypeconfiguration_configurations_productconfiguration_productconfiguration",
+      "fromNode": "n_ientitytypeconfiguration",
+      "toNode": "n_configurations_productconfiguration_productconfiguration",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_ientitytypeconfiguration_configurations_unitproductconfiguration_unitproductconfiguration",
+      "fromNode": "n_ientitytypeconfiguration",
+      "toNode": "n_configurations_unitproductconfiguration_unitproductconfiguration",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_configurations_applicationuserconfiguration_applicationuserconfiguration_configure_entitytypebuilder",
+      "fromNode": "n_configurations_applicationuserconfiguration_applicationuserconfiguration_configure",
+      "toNode": "n_entitytypebuilder",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_configurations_applicationuserconfiguration_applicationuserconfiguration_configure_models_applicationuser_applicationuser",
+      "fromNode": "n_configurations_applicationuserconfiguration_applicationuserconfiguration_configure",
+      "toNode": "n_models_applicationuser_applicationuser",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_entitytypebuilder_configurations_productconfiguration_productconfiguration_configure",
+      "fromNode": "n_entitytypebuilder",
+      "toNode": "n_configurations_productconfiguration_productconfiguration_configure",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_entitytypebuilder_configurations_unitproductconfiguration_unitproductconfiguration_configure",
+      "fromNode": "n_entitytypebuilder",
+      "toNode": "n_configurations_unitproductconfiguration_unitproductconfiguration_configure",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_configurations_productconfiguration_configurations_productconfiguration_productconfiguration",
+      "fromNode": "n_configurations_productconfiguration",
+      "toNode": "n_configurations_productconfiguration_productconfiguration",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_configurations_productconfiguration_productconfiguration_configurations_productconfiguration_productconfiguration_configure",
+      "fromNode": "n_configurations_productconfiguration_productconfiguration",
+      "toNode": "n_configurations_productconfiguration_productconfiguration_configure",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_configurations_productconfiguration_productconfiguration_models_product_product",
+      "fromNode": "n_configurations_productconfiguration_productconfiguration",
+      "toNode": "n_models_product_product",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_configurations_productconfiguration_productconfiguration_configure_models_product_product",
+      "fromNode": "n_configurations_productconfiguration_productconfiguration_configure",
+      "toNode": "n_models_product_product",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_configurations_unitproductconfiguration_configurations_unitproductconfiguration_unitproductconfiguration",
+      "fromNode": "n_configurations_unitproductconfiguration",
+      "toNode": "n_configurations_unitproductconfiguration_unitproductconfiguration",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_configurations_unitproductconfiguration_unitproductconfiguration_configurations_unitproductconfiguration_unitproductconfiguration_configure",
+      "fromNode": "n_configurations_unitproductconfiguration_unitproductconfiguration",
+      "toNode": "n_configurations_unitproductconfiguration_unitproductconfiguration_configure",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_configurations_unitproductconfiguration_unitproductconfiguration_models_unitproduct_unitproduct",
+      "fromNode": "n_configurations_unitproductconfiguration_unitproductconfiguration",
+      "toNode": "n_models_unitproduct_unitproduct",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_configurations_unitproductconfiguration_unitproductconfiguration_configure_models_unitproduct_unitproduct",
+      "fromNode": "n_configurations_unitproductconfiguration_unitproductconfiguration_configure",
+      "toNode": "n_models_unitproduct_unitproduct",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_controllers_authcontroller_controllers_authcontroller_authcontroller",
+      "fromNode": "n_controllers_authcontroller",
+      "toNode": "n_controllers_authcontroller_authcontroller",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_controllers_authcontroller_authcontroller_controllerbase",
+      "fromNode": "n_controllers_authcontroller_authcontroller",
+      "toNode": "n_controllerbase",
+      "label": "inherits [EXTRACTED]"
+    },
+    {
+      "id": "e_controllers_authcontroller_authcontroller_controllers_authcontroller_authcontroller_login",
+      "fromNode": "n_controllers_authcontroller_authcontroller",
+      "toNode": "n_controllers_authcontroller_authcontroller_login",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_controllers_authcontroller_authcontroller_controllers_authcontroller_authcontroller_register",
+      "fromNode": "n_controllers_authcontroller_authcontroller",
+      "toNode": "n_controllers_authcontroller_authcontroller_register",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_controllers_authcontroller_authcontroller_controllers_authcontroller_authcontroller_updateprofile",
+      "fromNode": "n_controllers_authcontroller_authcontroller",
+      "toNode": "n_controllers_authcontroller_authcontroller_updateprofile",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_controllers_authcontroller_authcontroller_services_iauthservice_iauthservice",
+      "fromNode": "n_controllers_authcontroller_authcontroller",
+      "toNode": "n_services_iauthservice_iauthservice",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_controllerbase_controllers_productscontroller_productscontroller",
+      "fromNode": "n_controllerbase",
+      "toNode": "n_controllers_productscontroller_productscontroller",
+      "label": "inherits [EXTRACTED]"
+    },
+    {
+      "id": "e_controllerbase_controllers_unitproductscontroller_unitproductscontroller",
+      "fromNode": "n_controllerbase",
+      "toNode": "n_controllers_unitproductscontroller_unitproductscontroller",
+      "label": "inherits [EXTRACTED]"
+    },
+    {
+      "id": "e_controllers_authcontroller_authcontroller_register_httppost",
+      "fromNode": "n_controllers_authcontroller_authcontroller_register",
+      "toNode": "n_httppost",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_controllers_authcontroller_authcontroller_register_iactionresult",
+      "fromNode": "n_controllers_authcontroller_authcontroller_register",
+      "toNode": "n_iactionresult",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_controllers_authcontroller_authcontroller_register_registerdto",
+      "fromNode": "n_controllers_authcontroller_authcontroller_register",
+      "toNode": "n_registerdto",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_controllers_authcontroller_authcontroller_register_task",
+      "fromNode": "n_controllers_authcontroller_authcontroller_register",
+      "toNode": "n_task",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_registerdto_authvalidators_cs_registervalidator_registervalidator",
+      "fromNode": "n_registerdto",
+      "toNode": "n_authvalidators_cs_registervalidator_registervalidator",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_registerdto_services_authservice_authservice_registerasync",
+      "fromNode": "n_registerdto",
+      "toNode": "n_services_authservice_authservice_registerasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_registerdto_services_iauthservice_iauthservice_registerasync",
+      "fromNode": "n_registerdto",
+      "toNode": "n_services_iauthservice_iauthservice_registerasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_controllers_authcontroller_authcontroller_login",
+      "fromNode": "n_task",
+      "toNode": "n_controllers_authcontroller_authcontroller_login",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_controllers_authcontroller_authcontroller_updateprofile",
+      "fromNode": "n_task",
+      "toNode": "n_controllers_authcontroller_authcontroller_updateprofile",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_controllers_productscontroller_productscontroller_create",
+      "fromNode": "n_task",
+      "toNode": "n_controllers_productscontroller_productscontroller_create",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_controllers_productscontroller_productscontroller_delete",
+      "fromNode": "n_task",
+      "toNode": "n_controllers_productscontroller_productscontroller_delete",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_controllers_productscontroller_productscontroller_getall",
+      "fromNode": "n_task",
+      "toNode": "n_controllers_productscontroller_productscontroller_getall",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_controllers_productscontroller_productscontroller_getbyid",
+      "fromNode": "n_task",
+      "toNode": "n_controllers_productscontroller_productscontroller_getbyid",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_controllers_productscontroller_productscontroller_update",
+      "fromNode": "n_task",
+      "toNode": "n_controllers_productscontroller_productscontroller_update",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_controllers_unitproductscontroller_unitproductscontroller_create",
+      "fromNode": "n_task",
+      "toNode": "n_controllers_unitproductscontroller_unitproductscontroller_create",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_controllers_unitproductscontroller_unitproductscontroller_delete",
+      "fromNode": "n_task",
+      "toNode": "n_controllers_unitproductscontroller_unitproductscontroller_delete",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_controllers_unitproductscontroller_unitproductscontroller_getall",
+      "fromNode": "n_task",
+      "toNode": "n_controllers_unitproductscontroller_unitproductscontroller_getall",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_controllers_unitproductscontroller_unitproductscontroller_getbyid",
+      "fromNode": "n_task",
+      "toNode": "n_controllers_unitproductscontroller_unitproductscontroller_getbyid",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_controllers_unitproductscontroller_unitproductscontroller_getbyproductid",
+      "fromNode": "n_task",
+      "toNode": "n_controllers_unitproductscontroller_unitproductscontroller_getbyproductid",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_controllers_unitproductscontroller_unitproductscontroller_update",
+      "fromNode": "n_task",
+      "toNode": "n_controllers_unitproductscontroller_unitproductscontroller_update",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_data_dataseeder_dataseeder_seedasync",
+      "fromNode": "n_task",
+      "toNode": "n_data_dataseeder_dataseeder_seedasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_repositories_iproductrepository_iproductrepository_createasync",
+      "fromNode": "n_task",
+      "toNode": "n_repositories_iproductrepository_iproductrepository_createasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_repositories_iproductrepository_iproductrepository_deleteasync",
+      "fromNode": "n_task",
+      "toNode": "n_repositories_iproductrepository_iproductrepository_deleteasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_repositories_iproductrepository_iproductrepository_getallasync",
+      "fromNode": "n_task",
+      "toNode": "n_repositories_iproductrepository_iproductrepository_getallasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_repositories_iproductrepository_iproductrepository_getbyidasync",
+      "fromNode": "n_task",
+      "toNode": "n_repositories_iproductrepository_iproductrepository_getbyidasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_repositories_iproductrepository_iproductrepository_getstockcountasync",
+      "fromNode": "n_task",
+      "toNode": "n_repositories_iproductrepository_iproductrepository_getstockcountasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_repositories_iproductrepository_iproductrepository_updateasync",
+      "fromNode": "n_task",
+      "toNode": "n_repositories_iproductrepository_iproductrepository_updateasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_repositories_iunitproductrepository_iunitproductrepository_createasync",
+      "fromNode": "n_task",
+      "toNode": "n_repositories_iunitproductrepository_iunitproductrepository_createasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_repositories_iunitproductrepository_iunitproductrepository_deleteasync",
+      "fromNode": "n_task",
+      "toNode": "n_repositories_iunitproductrepository_iunitproductrepository_deleteasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_repositories_iunitproductrepository_iunitproductrepository_getallasync",
+      "fromNode": "n_task",
+      "toNode": "n_repositories_iunitproductrepository_iunitproductrepository_getallasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_repositories_iunitproductrepository_iunitproductrepository_getbyidasync",
+      "fromNode": "n_task",
+      "toNode": "n_repositories_iunitproductrepository_iunitproductrepository_getbyidasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_repositories_iunitproductrepository_iunitproductrepository_getbyproductidasync",
+      "fromNode": "n_task",
+      "toNode": "n_repositories_iunitproductrepository_iunitproductrepository_getbyproductidasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_repositories_iunitproductrepository_iunitproductrepository_updateasync",
+      "fromNode": "n_task",
+      "toNode": "n_repositories_iunitproductrepository_iunitproductrepository_updateasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_repositories_productrepository_productrepository_createasync",
+      "fromNode": "n_task",
+      "toNode": "n_repositories_productrepository_productrepository_createasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_repositories_productrepository_productrepository_deleteasync",
+      "fromNode": "n_task",
+      "toNode": "n_repositories_productrepository_productrepository_deleteasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_repositories_productrepository_productrepository_getallasync",
+      "fromNode": "n_task",
+      "toNode": "n_repositories_productrepository_productrepository_getallasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_repositories_productrepository_productrepository_getbyidasync",
+      "fromNode": "n_task",
+      "toNode": "n_repositories_productrepository_productrepository_getbyidasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_repositories_productrepository_productrepository_getstockcountasync",
+      "fromNode": "n_task",
+      "toNode": "n_repositories_productrepository_productrepository_getstockcountasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_repositories_productrepository_productrepository_updateasync",
+      "fromNode": "n_task",
+      "toNode": "n_repositories_productrepository_productrepository_updateasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_repositories_unitproductrepository_unitproductrepository_createasync",
+      "fromNode": "n_task",
+      "toNode": "n_repositories_unitproductrepository_unitproductrepository_createasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_repositories_unitproductrepository_unitproductrepository_deleteasync",
+      "fromNode": "n_task",
+      "toNode": "n_repositories_unitproductrepository_unitproductrepository_deleteasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_repositories_unitproductrepository_unitproductrepository_getallasync",
+      "fromNode": "n_task",
+      "toNode": "n_repositories_unitproductrepository_unitproductrepository_getallasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_repositories_unitproductrepository_unitproductrepository_getbyidasync",
+      "fromNode": "n_task",
+      "toNode": "n_repositories_unitproductrepository_unitproductrepository_getbyidasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_repositories_unitproductrepository_unitproductrepository_getbyproductidasync",
+      "fromNode": "n_task",
+      "toNode": "n_repositories_unitproductrepository_unitproductrepository_getbyproductidasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_repositories_unitproductrepository_unitproductrepository_updateasync",
+      "fromNode": "n_task",
+      "toNode": "n_repositories_unitproductrepository_unitproductrepository_updateasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_seeders_applicationuserseeder_applicationuserseeder_seedasync",
+      "fromNode": "n_task",
+      "toNode": "n_seeders_applicationuserseeder_applicationuserseeder_seedasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_seeders_iseeder_iseeder_seedasync",
+      "fromNode": "n_task",
+      "toNode": "n_seeders_iseeder_iseeder_seedasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_seeders_productseeder_productseeder_seedasync",
+      "fromNode": "n_task",
+      "toNode": "n_seeders_productseeder_productseeder_seedasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_seeders_unitproductseeder_unitproductseeder_seedasync",
+      "fromNode": "n_task",
+      "toNode": "n_seeders_unitproductseeder_unitproductseeder_seedasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_services_authservice_authservice_loginasync",
+      "fromNode": "n_task",
+      "toNode": "n_services_authservice_authservice_loginasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_services_authservice_authservice_registerasync",
+      "fromNode": "n_task",
+      "toNode": "n_services_authservice_authservice_registerasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_services_authservice_authservice_updateprofileasync",
+      "fromNode": "n_task",
+      "toNode": "n_services_authservice_authservice_updateprofileasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_services_iauthservice_iauthservice_loginasync",
+      "fromNode": "n_task",
+      "toNode": "n_services_iauthservice_iauthservice_loginasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_services_iauthservice_iauthservice_registerasync",
+      "fromNode": "n_task",
+      "toNode": "n_services_iauthservice_iauthservice_registerasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_services_iauthservice_iauthservice_updateprofileasync",
+      "fromNode": "n_task",
+      "toNode": "n_services_iauthservice_iauthservice_updateprofileasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_services_iproductservice_iproductservice_createasync",
+      "fromNode": "n_task",
+      "toNode": "n_services_iproductservice_iproductservice_createasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_services_iproductservice_iproductservice_deleteasync",
+      "fromNode": "n_task",
+      "toNode": "n_services_iproductservice_iproductservice_deleteasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_services_iproductservice_iproductservice_getallasync",
+      "fromNode": "n_task",
+      "toNode": "n_services_iproductservice_iproductservice_getallasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_services_iproductservice_iproductservice_getbyidasync",
+      "fromNode": "n_task",
+      "toNode": "n_services_iproductservice_iproductservice_getbyidasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_services_iproductservice_iproductservice_updateasync",
+      "fromNode": "n_task",
+      "toNode": "n_services_iproductservice_iproductservice_updateasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_services_iunitproductservice_iunitproductservice_createasync",
+      "fromNode": "n_task",
+      "toNode": "n_services_iunitproductservice_iunitproductservice_createasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_services_iunitproductservice_iunitproductservice_deleteasync",
+      "fromNode": "n_task",
+      "toNode": "n_services_iunitproductservice_iunitproductservice_deleteasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_services_iunitproductservice_iunitproductservice_getallasync",
+      "fromNode": "n_task",
+      "toNode": "n_services_iunitproductservice_iunitproductservice_getallasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_services_iunitproductservice_iunitproductservice_getbyidasync",
+      "fromNode": "n_task",
+      "toNode": "n_services_iunitproductservice_iunitproductservice_getbyidasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_services_iunitproductservice_iunitproductservice_getbyproductidasync",
+      "fromNode": "n_task",
+      "toNode": "n_services_iunitproductservice_iunitproductservice_getbyproductidasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_services_iunitproductservice_iunitproductservice_updateasync",
+      "fromNode": "n_task",
+      "toNode": "n_services_iunitproductservice_iunitproductservice_updateasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_services_productservice_productservice_createasync",
+      "fromNode": "n_task",
+      "toNode": "n_services_productservice_productservice_createasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_services_productservice_productservice_deleteasync",
+      "fromNode": "n_task",
+      "toNode": "n_services_productservice_productservice_deleteasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_services_productservice_productservice_getallasync",
+      "fromNode": "n_task",
+      "toNode": "n_services_productservice_productservice_getallasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_services_productservice_productservice_getbyidasync",
+      "fromNode": "n_task",
+      "toNode": "n_services_productservice_productservice_getbyidasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_services_productservice_productservice_updateasync",
+      "fromNode": "n_task",
+      "toNode": "n_services_productservice_productservice_updateasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_services_unitproductservice_unitproductservice_createasync",
+      "fromNode": "n_task",
+      "toNode": "n_services_unitproductservice_unitproductservice_createasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_services_unitproductservice_unitproductservice_deleteasync",
+      "fromNode": "n_task",
+      "toNode": "n_services_unitproductservice_unitproductservice_deleteasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_services_unitproductservice_unitproductservice_getallasync",
+      "fromNode": "n_task",
+      "toNode": "n_services_unitproductservice_unitproductservice_getallasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_services_unitproductservice_unitproductservice_getbyidasync",
+      "fromNode": "n_task",
+      "toNode": "n_services_unitproductservice_unitproductservice_getbyidasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_services_unitproductservice_unitproductservice_getbyproductidasync",
+      "fromNode": "n_task",
+      "toNode": "n_services_unitproductservice_unitproductservice_getbyproductidasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_task_services_unitproductservice_unitproductservice_updateasync",
+      "fromNode": "n_task",
+      "toNode": "n_services_unitproductservice_unitproductservice_updateasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_iactionresult_controllers_authcontroller_authcontroller_login",
+      "fromNode": "n_iactionresult",
+      "toNode": "n_controllers_authcontroller_authcontroller_login",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_iactionresult_controllers_authcontroller_authcontroller_updateprofile",
+      "fromNode": "n_iactionresult",
+      "toNode": "n_controllers_authcontroller_authcontroller_updateprofile",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_iactionresult_controllers_productscontroller_productscontroller_create",
+      "fromNode": "n_iactionresult",
+      "toNode": "n_controllers_productscontroller_productscontroller_create",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_iactionresult_controllers_productscontroller_productscontroller_delete",
+      "fromNode": "n_iactionresult",
+      "toNode": "n_controllers_productscontroller_productscontroller_delete",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_iactionresult_controllers_productscontroller_productscontroller_getall",
+      "fromNode": "n_iactionresult",
+      "toNode": "n_controllers_productscontroller_productscontroller_getall",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_iactionresult_controllers_productscontroller_productscontroller_getbyid",
+      "fromNode": "n_iactionresult",
+      "toNode": "n_controllers_productscontroller_productscontroller_getbyid",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_iactionresult_controllers_productscontroller_productscontroller_update",
+      "fromNode": "n_iactionresult",
+      "toNode": "n_controllers_productscontroller_productscontroller_update",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_iactionresult_controllers_unitproductscontroller_unitproductscontroller_create",
+      "fromNode": "n_iactionresult",
+      "toNode": "n_controllers_unitproductscontroller_unitproductscontroller_create",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_iactionresult_controllers_unitproductscontroller_unitproductscontroller_delete",
+      "fromNode": "n_iactionresult",
+      "toNode": "n_controllers_unitproductscontroller_unitproductscontroller_delete",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_iactionresult_controllers_unitproductscontroller_unitproductscontroller_getall",
+      "fromNode": "n_iactionresult",
+      "toNode": "n_controllers_unitproductscontroller_unitproductscontroller_getall",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_iactionresult_controllers_unitproductscontroller_unitproductscontroller_getbyid",
+      "fromNode": "n_iactionresult",
+      "toNode": "n_controllers_unitproductscontroller_unitproductscontroller_getbyid",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_iactionresult_controllers_unitproductscontroller_unitproductscontroller_getbyproductid",
+      "fromNode": "n_iactionresult",
+      "toNode": "n_controllers_unitproductscontroller_unitproductscontroller_getbyproductid",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_iactionresult_controllers_unitproductscontroller_unitproductscontroller_update",
+      "fromNode": "n_iactionresult",
+      "toNode": "n_controllers_unitproductscontroller_unitproductscontroller_update",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_httppost_controllers_authcontroller_authcontroller_login",
+      "fromNode": "n_httppost",
+      "toNode": "n_controllers_authcontroller_authcontroller_login",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_httppost_controllers_authcontroller_authcontroller_updateprofile",
+      "fromNode": "n_httppost",
+      "toNode": "n_controllers_authcontroller_authcontroller_updateprofile",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_httppost_controllers_productscontroller_productscontroller_create",
+      "fromNode": "n_httppost",
+      "toNode": "n_controllers_productscontroller_productscontroller_create",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_httppost_controllers_unitproductscontroller_unitproductscontroller_create",
+      "fromNode": "n_httppost",
+      "toNode": "n_controllers_unitproductscontroller_unitproductscontroller_create",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_controllers_authcontroller_authcontroller_login_logindto",
+      "fromNode": "n_controllers_authcontroller_authcontroller_login",
+      "toNode": "n_logindto",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_logindto_authvalidators_cs_loginvalidator_loginvalidator",
+      "fromNode": "n_logindto",
+      "toNode": "n_authvalidators_cs_loginvalidator_loginvalidator",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_logindto_services_authservice_authservice_loginasync",
+      "fromNode": "n_logindto",
+      "toNode": "n_services_authservice_authservice_loginasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_logindto_services_iauthservice_iauthservice_loginasync",
+      "fromNode": "n_logindto",
+      "toNode": "n_services_iauthservice_iauthservice_loginasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_controllers_authcontroller_authcontroller_updateprofile_authorize",
+      "fromNode": "n_controllers_authcontroller_authcontroller_updateprofile",
+      "toNode": "n_authorize",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_controllers_authcontroller_authcontroller_updateprofile_updateprofiledto",
+      "fromNode": "n_controllers_authcontroller_authcontroller_updateprofile",
+      "toNode": "n_updateprofiledto",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_updateprofiledto_authvalidators_cs_updateprofilevalidator_updateprofilevalidator",
+      "fromNode": "n_updateprofiledto",
+      "toNode": "n_authvalidators_cs_updateprofilevalidator_updateprofilevalidator",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_updateprofiledto_services_authservice_authservice_updateprofileasync",
+      "fromNode": "n_updateprofiledto",
+      "toNode": "n_services_authservice_authservice_updateprofileasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_updateprofiledto_services_iauthservice_iauthservice_updateprofileasync",
+      "fromNode": "n_updateprofiledto",
+      "toNode": "n_services_iauthservice_iauthservice_updateprofileasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_controllers_productscontroller_controllers_productscontroller_productscontroller",
+      "fromNode": "n_controllers_productscontroller",
+      "toNode": "n_controllers_productscontroller_productscontroller",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_controllers_productscontroller_productscontroller_controllers_productscontroller_productscontroller_create",
+      "fromNode": "n_controllers_productscontroller_productscontroller",
+      "toNode": "n_controllers_productscontroller_productscontroller_create",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_controllers_productscontroller_productscontroller_controllers_productscontroller_productscontroller_delete",
+      "fromNode": "n_controllers_productscontroller_productscontroller",
+      "toNode": "n_controllers_productscontroller_productscontroller_delete",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_controllers_productscontroller_productscontroller_controllers_productscontroller_productscontroller_getall",
+      "fromNode": "n_controllers_productscontroller_productscontroller",
+      "toNode": "n_controllers_productscontroller_productscontroller_getall",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_controllers_productscontroller_productscontroller_controllers_productscontroller_productscontroller_getbyid",
+      "fromNode": "n_controllers_productscontroller_productscontroller",
+      "toNode": "n_controllers_productscontroller_productscontroller_getbyid",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_controllers_productscontroller_productscontroller_controllers_productscontroller_productscontroller_update",
+      "fromNode": "n_controllers_productscontroller_productscontroller",
+      "toNode": "n_controllers_productscontroller_productscontroller_update",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_controllers_productscontroller_productscontroller_services_iproductservice_iproductservice",
+      "fromNode": "n_controllers_productscontroller_productscontroller",
+      "toNode": "n_services_iproductservice_iproductservice",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_controllers_productscontroller_productscontroller_getall_httpget",
+      "fromNode": "n_controllers_productscontroller_productscontroller_getall",
+      "toNode": "n_httpget",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_httpget_controllers_productscontroller_productscontroller_getbyid",
+      "fromNode": "n_httpget",
+      "toNode": "n_controllers_productscontroller_productscontroller_getbyid",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_httpget_controllers_unitproductscontroller_unitproductscontroller_getall",
+      "fromNode": "n_httpget",
+      "toNode": "n_controllers_unitproductscontroller_unitproductscontroller_getall",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_httpget_controllers_unitproductscontroller_unitproductscontroller_getbyid",
+      "fromNode": "n_httpget",
+      "toNode": "n_controllers_unitproductscontroller_unitproductscontroller_getbyid",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_httpget_controllers_unitproductscontroller_unitproductscontroller_getbyproductid",
+      "fromNode": "n_httpget",
+      "toNode": "n_controllers_unitproductscontroller_unitproductscontroller_getbyproductid",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_controllers_productscontroller_productscontroller_create_createproductdto",
+      "fromNode": "n_controllers_productscontroller_productscontroller_create",
+      "toNode": "n_createproductdto",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_createproductdto_productvalidators_createproductvalidator_createproductvalidator",
+      "fromNode": "n_createproductdto",
+      "toNode": "n_productvalidators_createproductvalidator_createproductvalidator",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_createproductdto_services_iproductservice_iproductservice_createasync",
+      "fromNode": "n_createproductdto",
+      "toNode": "n_services_iproductservice_iproductservice_createasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_createproductdto_services_productservice_productservice_createasync",
+      "fromNode": "n_createproductdto",
+      "toNode": "n_services_productservice_productservice_createasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_controllers_productscontroller_productscontroller_update_httpput",
+      "fromNode": "n_controllers_productscontroller_productscontroller_update",
+      "toNode": "n_httpput",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_controllers_productscontroller_productscontroller_update_updateproductdto",
+      "fromNode": "n_controllers_productscontroller_productscontroller_update",
+      "toNode": "n_updateproductdto",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_updateproductdto_productvalidators_updateproductvalidator_updateproductvalidator",
+      "fromNode": "n_updateproductdto",
+      "toNode": "n_productvalidators_updateproductvalidator_updateproductvalidator",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_updateproductdto_services_iproductservice_iproductservice_updateasync",
+      "fromNode": "n_updateproductdto",
+      "toNode": "n_services_iproductservice_iproductservice_updateasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_updateproductdto_services_productservice_productservice_updateasync",
+      "fromNode": "n_updateproductdto",
+      "toNode": "n_services_productservice_productservice_updateasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_httpput_controllers_unitproductscontroller_unitproductscontroller_update",
+      "fromNode": "n_httpput",
+      "toNode": "n_controllers_unitproductscontroller_unitproductscontroller_update",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_controllers_productscontroller_productscontroller_delete_httpdelete",
+      "fromNode": "n_controllers_productscontroller_productscontroller_delete",
+      "toNode": "n_httpdelete",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_httpdelete_controllers_unitproductscontroller_unitproductscontroller_delete",
+      "fromNode": "n_httpdelete",
+      "toNode": "n_controllers_unitproductscontroller_unitproductscontroller_delete",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_controllers_unitproductscontroller_controllers_unitproductscontroller_unitproductscontroller",
+      "fromNode": "n_controllers_unitproductscontroller",
+      "toNode": "n_controllers_unitproductscontroller_unitproductscontroller",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_controllers_unitproductscontroller_unitproductscontroller_controllers_unitproductscontroller_unitproductscontroller_create",
+      "fromNode": "n_controllers_unitproductscontroller_unitproductscontroller",
+      "toNode": "n_controllers_unitproductscontroller_unitproductscontroller_create",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_controllers_unitproductscontroller_unitproductscontroller_controllers_unitproductscontroller_unitproductscontroller_delete",
+      "fromNode": "n_controllers_unitproductscontroller_unitproductscontroller",
+      "toNode": "n_controllers_unitproductscontroller_unitproductscontroller_delete",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_controllers_unitproductscontroller_unitproductscontroller_controllers_unitproductscontroller_unitproductscontroller_getall",
+      "fromNode": "n_controllers_unitproductscontroller_unitproductscontroller",
+      "toNode": "n_controllers_unitproductscontroller_unitproductscontroller_getall",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_controllers_unitproductscontroller_unitproductscontroller_controllers_unitproductscontroller_unitproductscontroller_getbyid",
+      "fromNode": "n_controllers_unitproductscontroller_unitproductscontroller",
+      "toNode": "n_controllers_unitproductscontroller_unitproductscontroller_getbyid",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_controllers_unitproductscontroller_unitproductscontroller_controllers_unitproductscontroller_unitproductscontroller_getbyproductid",
+      "fromNode": "n_controllers_unitproductscontroller_unitproductscontroller",
+      "toNode": "n_controllers_unitproductscontroller_unitproductscontroller_getbyproductid",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_controllers_unitproductscontroller_unitproductscontroller_controllers_unitproductscontroller_unitproductscontroller_update",
+      "fromNode": "n_controllers_unitproductscontroller_unitproductscontroller",
+      "toNode": "n_controllers_unitproductscontroller_unitproductscontroller_update",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_controllers_unitproductscontroller_unitproductscontroller_services_iunitproductservice_iunitproductservice",
+      "fromNode": "n_controllers_unitproductscontroller_unitproductscontroller",
+      "toNode": "n_services_iunitproductservice_iunitproductservice",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_controllers_unitproductscontroller_unitproductscontroller_create_createunitproductdto",
+      "fromNode": "n_controllers_unitproductscontroller_unitproductscontroller_create",
+      "toNode": "n_createunitproductdto",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_createunitproductdto_services_iunitproductservice_iunitproductservice_createasync",
+      "fromNode": "n_createunitproductdto",
+      "toNode": "n_services_iunitproductservice_iunitproductservice_createasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_createunitproductdto_services_unitproductservice_unitproductservice_createasync",
+      "fromNode": "n_createunitproductdto",
+      "toNode": "n_services_unitproductservice_unitproductservice_createasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_createunitproductdto_unitproductvalidators_createunitproductvalidator_createunitproductvalidator",
+      "fromNode": "n_createunitproductdto",
+      "toNode": "n_unitproductvalidators_createunitproductvalidator_createunitproductvalidator",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_controllers_unitproductscontroller_unitproductscontroller_update_updateunitproductdto",
+      "fromNode": "n_controllers_unitproductscontroller_unitproductscontroller_update",
+      "toNode": "n_updateunitproductdto",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_updateunitproductdto_services_iunitproductservice_iunitproductservice_updateasync",
+      "fromNode": "n_updateunitproductdto",
+      "toNode": "n_services_iunitproductservice_iunitproductservice_updateasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_updateunitproductdto_services_unitproductservice_unitproductservice_updateasync",
+      "fromNode": "n_updateunitproductdto",
+      "toNode": "n_services_unitproductservice_unitproductservice_updateasync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_updateunitproductdto_unitproductvalidators_updateunitproductvalidator_updateunitproductvalidator",
+      "fromNode": "n_updateunitproductdto",
+      "toNode": "n_unitproductvalidators_updateunitproductvalidator_updateunitproductvalidator",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_dtos_apiresponsedto_dtos_apiresponsedto_apiresponsedto",
+      "fromNode": "n_dtos_apiresponsedto",
+      "toNode": "n_dtos_apiresponsedto_apiresponsedto",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_dtos_apiresponsedto_apiresponsedto_dtos_apiresponsedto_apiresponsedto_errorresult",
+      "fromNode": "n_dtos_apiresponsedto_apiresponsedto",
+      "toNode": "n_dtos_apiresponsedto_apiresponsedto_errorresult",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_dtos_apiresponsedto_apiresponsedto_dtos_apiresponsedto_apiresponsedto_successresult",
+      "fromNode": "n_dtos_apiresponsedto_apiresponsedto",
+      "toNode": "n_dtos_apiresponsedto_apiresponsedto_successresult",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_dtos_apiresponsedto_apiresponsedto_successresult_t",
+      "fromNode": "n_dtos_apiresponsedto_apiresponsedto_successresult",
+      "toNode": "n_t",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_t_dtos_apiresponsedto_apiresponsedto_errorresult",
+      "fromNode": "n_t",
+      "toNode": "n_dtos_apiresponsedto_apiresponsedto_errorresult",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_t_obsidian42_brat_main_ks",
+      "fromNode": "n_t",
+      "toNode": "n_obsidian42_brat_main_ks",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_authdtos_authresponsedto_authdtos_authresponsedto_authresponsedto",
+      "fromNode": "n_authdtos_authresponsedto",
+      "toNode": "n_authdtos_authresponsedto_authresponsedto",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_authdtos_logindto_authdtos_logindto_logindto",
+      "fromNode": "n_authdtos_logindto",
+      "toNode": "n_authdtos_logindto_logindto",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_authdtos_registerdto_authdtos_registerdto_registerdto",
+      "fromNode": "n_authdtos_registerdto",
+      "toNode": "n_authdtos_registerdto_registerdto",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_authdtos_updateprofiledto_authdtos_updateprofiledto_updateprofiledto",
+      "fromNode": "n_authdtos_updateprofiledto",
+      "toNode": "n_authdtos_updateprofiledto_updateprofiledto",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_authdtos_userinforesponsedto_authdtos_userinforesponsedto_userinforesponsedto",
+      "fromNode": "n_authdtos_userinforesponsedto",
+      "toNode": "n_authdtos_userinforesponsedto_userinforesponsedto",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_productdtos_createproductdto_productdtos_createproductdto_createproductdto",
+      "fromNode": "n_productdtos_createproductdto",
+      "toNode": "n_productdtos_createproductdto_createproductdto",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_productdtos_productresponsedto_productdtos_productresponsedto_productresponsedto",
+      "fromNode": "n_productdtos_productresponsedto",
+      "toNode": "n_productdtos_productresponsedto_productresponsedto",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_productdtos_updateproductdto_productdtos_updateproductdto_updateproductdto",
+      "fromNode": "n_productdtos_updateproductdto",
+      "toNode": "n_productdtos_updateproductdto_updateproductdto",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_unitproductdtos_createunitproductdto_unitproductdtos_createunitproductdto_createunitproductdto",
+      "fromNode": "n_unitproductdtos_createunitproductdto",
+      "toNode": "n_unitproductdtos_createunitproductdto_createunitproductdto",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_unitproductdtos_unitproductresponsedto_unitproductdtos_unitproductresponsedto_unitproductresponsedto",
+      "fromNode": "n_unitproductdtos_unitproductresponsedto",
+      "toNode": "n_unitproductdtos_unitproductresponsedto_unitproductresponsedto",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_unitproductdtos_updateunitproductdto_unitproductdtos_updateunitproductdto_updateunitproductdto",
+      "fromNode": "n_unitproductdtos_updateunitproductdto",
+      "toNode": "n_unitproductdtos_updateunitproductdto_updateunitproductdto",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_data_appdbcontext_data_appdbcontext_appdbcontext",
+      "fromNode": "n_data_appdbcontext",
+      "toNode": "n_data_appdbcontext_appdbcontext",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_data_appdbcontext_appdbcontext_data_appdbcontext_appdbcontext_onmodelcreating",
+      "fromNode": "n_data_appdbcontext_appdbcontext",
+      "toNode": "n_data_appdbcontext_appdbcontext_onmodelcreating",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_data_appdbcontext_appdbcontext_identitydbcontext",
+      "fromNode": "n_data_appdbcontext_appdbcontext",
+      "toNode": "n_identitydbcontext",
+      "label": "inherits [EXTRACTED]"
+    },
+    {
+      "id": "e_data_appdbcontext_appdbcontext_models_applicationuser_applicationuser",
+      "fromNode": "n_data_appdbcontext_appdbcontext",
+      "toNode": "n_models_applicationuser_applicationuser",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_data_appdbcontext_appdbcontext_data_dataseeder_dataseeder",
+      "fromNode": "n_data_appdbcontext_appdbcontext",
+      "toNode": "n_data_dataseeder_dataseeder",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_data_appdbcontext_appdbcontext_repositories_productrepository_productrepository",
+      "fromNode": "n_data_appdbcontext_appdbcontext",
+      "toNode": "n_repositories_productrepository_productrepository",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_data_appdbcontext_appdbcontext_repositories_unitproductrepository_unitproductrepository",
+      "fromNode": "n_data_appdbcontext_appdbcontext",
+      "toNode": "n_repositories_unitproductrepository_unitproductrepository",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_data_appdbcontext_appdbcontext_seeders_productseeder_productseeder",
+      "fromNode": "n_data_appdbcontext_appdbcontext",
+      "toNode": "n_seeders_productseeder_productseeder",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_data_appdbcontext_appdbcontext_seeders_unitproductseeder_unitproductseeder",
+      "fromNode": "n_data_appdbcontext_appdbcontext",
+      "toNode": "n_seeders_unitproductseeder_unitproductseeder",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_data_appdbcontext_appdbcontext_onmodelcreating_modelbuilder",
+      "fromNode": "n_data_appdbcontext_appdbcontext_onmodelcreating",
+      "toNode": "n_modelbuilder",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_data_dataseeder_data_dataseeder_dataseeder",
+      "fromNode": "n_data_dataseeder",
+      "toNode": "n_data_dataseeder_dataseeder",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_data_dataseeder_dataseeder_data_dataseeder_dataseeder_seedasync",
+      "fromNode": "n_data_dataseeder_dataseeder",
+      "toNode": "n_data_dataseeder_dataseeder_seedasync",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_data_dataseeder_dataseeder_ienumerable",
+      "fromNode": "n_data_dataseeder_dataseeder",
+      "toNode": "n_ienumerable",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_ienumerable_repositories_iproductrepository_iproductrepository_getallasync",
+      "fromNode": "n_ienumerable",
+      "toNode": "n_repositories_iproductrepository_iproductrepository_getallasync",
+      "label": "references [EXTRACTED]"
+    }
+  ]
+}

@@ -1,0 +1,512 @@
+{
+  ".vscode/settings.json": {
+    "mtime": 1782477417.7767346,
+    "ast_hash": "4edb76be0569657898ff5956bef4f5cc",
+    "semantic_hash": "4edb76be0569657898ff5956bef4f5cc"
+  },
+  "BattleshipsGameApi/Configurations/ApplicationUserConfiguration.cs": {
+    "mtime": 1782575948.2458272,
+    "ast_hash": "36cd6b8b6dc29e045646183995fc13e0",
+    "semantic_hash": "36cd6b8b6dc29e045646183995fc13e0"
+  },
+  "BattleshipsGameApi/Configurations/ProductConfiguration.cs": {
+    "mtime": 1781212455.8926756,
+    "ast_hash": "09bc098b04859671ed41eec5a04ef7da",
+    "semantic_hash": "09bc098b04859671ed41eec5a04ef7da"
+  },
+  "BattleshipsGameApi/Configurations/UnitProductConfiguration.cs": {
+    "mtime": 1781212455.8941927,
+    "ast_hash": "e512113eb4a144902829e8273efc829e",
+    "semantic_hash": "e512113eb4a144902829e8273efc829e"
+  },
+  "BattleshipsGameApi/Controllers/AuthController.cs": {
+    "mtime": 1782473587.3501215,
+    "ast_hash": "f13603fe7cfef6084001cbc2ec3f1d40",
+    "semantic_hash": "f13603fe7cfef6084001cbc2ec3f1d40"
+  },
+  "BattleshipsGameApi/Controllers/ProductsController.cs": {
+    "mtime": 1781018143.4164886,
+    "ast_hash": "91e8957a62fa69a56c83b2f367e00d5f",
+    "semantic_hash": "91e8957a62fa69a56c83b2f367e00d5f"
+  },
+  "BattleshipsGameApi/Controllers/UnitProductsController.cs": {
+    "mtime": 1781005162.1248238,
+    "ast_hash": "a144fa5b6b91ca21f513f77982e08bc8",
+    "semantic_hash": "a144fa5b6b91ca21f513f77982e08bc8"
+  },
+  "BattleshipsGameApi/DTOs/ApiResponseDto.cs": {
+    "mtime": 1781005162.1248238,
+    "ast_hash": "5576ba0ab39f1ccc82745f191df57ec9",
+    "semantic_hash": "5576ba0ab39f1ccc82745f191df57ec9"
+  },
+  "BattleshipsGameApi/DTOs/AuthDtos/AuthResponseDto.cs": {
+    "mtime": 1782473533.8686588,
+    "ast_hash": "7a427bdbe4c054a8ff0d6a645d5e06f7",
+    "semantic_hash": "7a427bdbe4c054a8ff0d6a645d5e06f7"
+  },
+  "BattleshipsGameApi/DTOs/AuthDtos/LoginDto.cs": {
+    "mtime": 1781005162.1258304,
+    "ast_hash": "6c092755b51eb29152fe2bac6050e008",
+    "semantic_hash": "6c092755b51eb29152fe2bac6050e008"
+  },
+  "BattleshipsGameApi/DTOs/AuthDtos/RegisterDto.cs": {
+    "mtime": 1782575857.8239603,
+    "ast_hash": "30a6cb101d9f23255c65f4c1b6e71192",
+    "semantic_hash": "30a6cb101d9f23255c65f4c1b6e71192"
+  },
+  "BattleshipsGameApi/DTOs/AuthDtos/UpdateProfileDto.cs": {
+    "mtime": 1781005162.12683,
+    "ast_hash": "cd99a912f3b73ccc9ac17ac92fc86ae1",
+    "semantic_hash": "cd99a912f3b73ccc9ac17ac92fc86ae1"
+  },
+  "BattleshipsGameApi/DTOs/AuthDtos/UserInfoResponseDto.cs": {
+    "mtime": 1781212455.8962693,
+    "ast_hash": "e223d7f740b64728f2692cc67c2be747",
+    "semantic_hash": "e223d7f740b64728f2692cc67c2be747"
+  },
+  "BattleshipsGameApi/DTOs/ProductDtos/CreateProductDto.cs": {
+    "mtime": 1781212455.8975976,
+    "ast_hash": "87a27e1ac83bde602d4684580254685a",
+    "semantic_hash": "87a27e1ac83bde602d4684580254685a"
+  },
+  "BattleshipsGameApi/DTOs/ProductDtos/ProductResponseDto.cs": {
+    "mtime": 1781212455.8975976,
+    "ast_hash": "ad4110179aa7ab293260da8190a22f32",
+    "semantic_hash": "ad4110179aa7ab293260da8190a22f32"
+  },
+  "BattleshipsGameApi/DTOs/ProductDtos/UpdateProductDto.cs": {
+    "mtime": 1781212455.898635,
+    "ast_hash": "62805af4e4a2f5581cdb48e0daa8660d",
+    "semantic_hash": "62805af4e4a2f5581cdb48e0daa8660d"
+  },
+  "BattleshipsGameApi/DTOs/UnitProductDtos/CreateUnitProductDto.cs": {
+    "mtime": 1781005162.1290548,
+    "ast_hash": "0523487264548dcea9d4fe037c220abf",
+    "semantic_hash": "0523487264548dcea9d4fe037c220abf"
+  },
+  "BattleshipsGameApi/DTOs/UnitProductDtos/UnitProductResponseDto.cs": {
+    "mtime": 1781005162.1300519,
+    "ast_hash": "6330abf23e04f8bc281ba2ad59beca16",
+    "semantic_hash": "6330abf23e04f8bc281ba2ad59beca16"
+  },
+  "BattleshipsGameApi/DTOs/UnitProductDtos/UpdateUnitProductDto.cs": {
+    "mtime": 1781212455.8996363,
+    "ast_hash": "e62cd7bb9e18003abfee9f66388538c5",
+    "semantic_hash": "e62cd7bb9e18003abfee9f66388538c5"
+  },
+  "BattleshipsGameApi/Data/AppDbContext.cs": {
+    "mtime": 1782481701.454035,
+    "ast_hash": "962df3e13ad8cd25b28664167985546a",
+    "semantic_hash": "962df3e13ad8cd25b28664167985546a"
+  },
+  "BattleshipsGameApi/Data/DataSeeder.cs": {
+    "mtime": 1781212455.9008288,
+    "ast_hash": "24b99ce9ac03fdf69dbb9371c98404c0",
+    "semantic_hash": "24b99ce9ac03fdf69dbb9371c98404c0"
+  },
+  "BattleshipsGameApi/Data/Seeders/ApplicationUserSeeder.cs": {
+    "mtime": 1781005162.1324239,
+    "ast_hash": "1749366f35f8e3c9d3981120dc51e23c",
+    "semantic_hash": "1749366f35f8e3c9d3981120dc51e23c"
+  },
+  "BattleshipsGameApi/Data/Seeders/ISeeder.cs": {
+    "mtime": 1781005162.1324239,
+    "ast_hash": "dd0d4d5b62e64c66bbcaa5e1f112ea68",
+    "semantic_hash": "dd0d4d5b62e64c66bbcaa5e1f112ea68"
+  },
+  "BattleshipsGameApi/Data/Seeders/ProductSeeder.cs": {
+    "mtime": 1781212455.9018283,
+    "ast_hash": "14b7fb0b6a2422f662f1c320709b43ac",
+    "semantic_hash": "14b7fb0b6a2422f662f1c320709b43ac"
+  },
+  "BattleshipsGameApi/Data/Seeders/UnitProductSeeder.cs": {
+    "mtime": 1781005162.1334238,
+    "ast_hash": "5aabb7dbce501bb049dd2a0965ffbe78",
+    "semantic_hash": "5aabb7dbce501bb049dd2a0965ffbe78"
+  },
+  "BattleshipsGameApi/Exceptions/GlobalExceptionHandler.cs": {
+    "mtime": 1781005162.1334238,
+    "ast_hash": "6ac5de14682f85c04e12fc58e9ffb34e",
+    "semantic_hash": "6ac5de14682f85c04e12fc58e9ffb34e"
+  },
+  "BattleshipsGameApi/Models/ApplicationUser.cs": {
+    "mtime": 1782575748.4426715,
+    "ast_hash": "e31be8f7d01e5a12a614aadf9970263c",
+    "semantic_hash": "e31be8f7d01e5a12a614aadf9970263c"
+  },
+  "BattleshipsGameApi/Models/Product.cs": {
+    "mtime": 1781212455.905576,
+    "ast_hash": "aeb2d41fe4b5a857a396bfc2f8696e53",
+    "semantic_hash": "aeb2d41fe4b5a857a396bfc2f8696e53"
+  },
+  "BattleshipsGameApi/Models/UnitProduct.cs": {
+    "mtime": 1781212455.9069395,
+    "ast_hash": "5baa5e10d45685845ff9dda0c9b8195a",
+    "semantic_hash": "5baa5e10d45685845ff9dda0c9b8195a"
+  },
+  "BattleshipsGameApi/ProductCatalogApi.csproj": {
+    "mtime": 1782473528.43106,
+    "ast_hash": "1d950df3d49aece8c60630abcb6f0b64",
+    "semantic_hash": "1d950df3d49aece8c60630abcb6f0b64"
+  },
+  "BattleshipsGameApi/Profiles/ApplicationUserProfile.cs": {
+    "mtime": 1782473594.8119495,
+    "ast_hash": "d6f3cf260ed3daa86088194dd8679856",
+    "semantic_hash": "d6f3cf260ed3daa86088194dd8679856"
+  },
+  "BattleshipsGameApi/Profiles/ProductProfile.cs": {
+    "mtime": 1781212455.9090612,
+    "ast_hash": "050b51b781e3976da7cd52367a77106d",
+    "semantic_hash": "050b51b781e3976da7cd52367a77106d"
+  },
+  "BattleshipsGameApi/Profiles/UnitProductProfile.cs": {
+    "mtime": 1781212455.9105716,
+    "ast_hash": "db9e77773bdb19b09078f995fc051942",
+    "semantic_hash": "db9e77773bdb19b09078f995fc051942"
+  },
+  "BattleshipsGameApi/Program.cs": {
+    "mtime": 1782473650.2351496,
+    "ast_hash": "088779cc027fe0fc30a777228af580d3",
+    "semantic_hash": "088779cc027fe0fc30a777228af580d3"
+  },
+  "BattleshipsGameApi/Properties/launchSettings.json": {
+    "mtime": 1781005162.1417737,
+    "ast_hash": "2492ff35ab24c7d29c2c64109e14379e",
+    "semantic_hash": "2492ff35ab24c7d29c2c64109e14379e"
+  },
+  "BattleshipsGameApi/Repositories/IProductRepository.cs": {
+    "mtime": 1781212455.9130485,
+    "ast_hash": "bc42b9bf411a4e23132e672b9f03c101",
+    "semantic_hash": "bc42b9bf411a4e23132e672b9f03c101"
+  },
+  "BattleshipsGameApi/Repositories/IUnitProductRepository.cs": {
+    "mtime": 1781005162.1427772,
+    "ast_hash": "4380bc93af666a0dbf85dccc5f6f9fb6",
+    "semantic_hash": "4380bc93af666a0dbf85dccc5f6f9fb6"
+  },
+  "BattleshipsGameApi/Repositories/ProductRepository.cs": {
+    "mtime": 1781212455.9145544,
+    "ast_hash": "59796b2ea0574c4e1d98455f13ffa62f",
+    "semantic_hash": "59796b2ea0574c4e1d98455f13ffa62f"
+  },
+  "BattleshipsGameApi/Repositories/UnitProductRepository.cs": {
+    "mtime": 1781005162.1437764,
+    "ast_hash": "501e29da84e663c9a99bfc980695c9d9",
+    "semantic_hash": "501e29da84e663c9a99bfc980695c9d9"
+  },
+  "BattleshipsGameApi/Services/AuthService.cs": {
+    "mtime": 1782575885.8260448,
+    "ast_hash": "c247ddde88d28f78be6bd83f3762c97a",
+    "semantic_hash": "c247ddde88d28f78be6bd83f3762c97a"
+  },
+  "BattleshipsGameApi/Services/IAuthService.cs": {
+    "mtime": 1782473556.2620907,
+    "ast_hash": "b0756a8cae4d5ee1cea0c57ba1f825cc",
+    "semantic_hash": "b0756a8cae4d5ee1cea0c57ba1f825cc"
+  },
+  "BattleshipsGameApi/Services/IProductService.cs": {
+    "mtime": 1781018053.2010062,
+    "ast_hash": "c94a6091a4cc97a6bf2295962035fb46",
+    "semantic_hash": "c94a6091a4cc97a6bf2295962035fb46"
+  },
+  "BattleshipsGameApi/Services/IUnitProductService.cs": {
+    "mtime": 1781005162.1457753,
+    "ast_hash": "9eb0f02d22612840e9a035118940c503",
+    "semantic_hash": "9eb0f02d22612840e9a035118940c503"
+  },
+  "BattleshipsGameApi/Services/ProductService.cs": {
+    "mtime": 1781212455.9172847,
+    "ast_hash": "6dbf1a993b741ddbf7a0a6c49574e1ef",
+    "semantic_hash": "6dbf1a993b741ddbf7a0a6c49574e1ef"
+  },
+  "BattleshipsGameApi/Services/UnitProductService.cs": {
+    "mtime": 1781013376.020127,
+    "ast_hash": "28b47d4d64b496d321c387f3de400dff",
+    "semantic_hash": "28b47d4d64b496d321c387f3de400dff"
+  },
+  "BattleshipsGameApi/Validators/AuthValidators.cs/LoginValidator.cs": {
+    "mtime": 1781005162.146984,
+    "ast_hash": "752e31d237f10e5e13893c04d5e57b95",
+    "semantic_hash": "752e31d237f10e5e13893c04d5e57b95"
+  },
+  "BattleshipsGameApi/Validators/AuthValidators.cs/RegisterValidator.cs": {
+    "mtime": 1781005162.148491,
+    "ast_hash": "27e89a6da65a2a25b797c5cf63b8f3ba",
+    "semantic_hash": "27e89a6da65a2a25b797c5cf63b8f3ba"
+  },
+  "BattleshipsGameApi/Validators/AuthValidators.cs/UpdateProfileValidator.cs": {
+    "mtime": 1781005162.148491,
+    "ast_hash": "996b76461b43c094cbef144bacca4dff",
+    "semantic_hash": "996b76461b43c094cbef144bacca4dff"
+  },
+  "BattleshipsGameApi/Validators/ProductValidators/CreateProductValidator.cs": {
+    "mtime": 1781212455.9183145,
+    "ast_hash": "6d37781f91b836a374673b296947b868",
+    "semantic_hash": "6d37781f91b836a374673b296947b868"
+  },
+  "BattleshipsGameApi/Validators/ProductValidators/UpdateProductValidator.cs": {
+    "mtime": 1781212455.9194617,
+    "ast_hash": "02dbc7b6df43e0ed6ec06f535b872496",
+    "semantic_hash": "02dbc7b6df43e0ed6ec06f535b872496"
+  },
+  "BattleshipsGameApi/Validators/UnitProductValidators/CreateUnitProductValidator.cs": {
+    "mtime": 1782481821.0358412,
+    "ast_hash": "2e12b556b63becfe485adc779e1594d2",
+    "semantic_hash": "2e12b556b63becfe485adc779e1594d2"
+  },
+  "BattleshipsGameApi/Validators/UnitProductValidators/UpdateUnitProductValidator.cs": {
+    "mtime": 1781005162.1505315,
+    "ast_hash": "7bb7efce90f2c3777f624cce76c10290",
+    "semantic_hash": "7bb7efce90f2c3777f624cce76c10290"
+  },
+  "BattleshipsGameApi/appsettings.Development.json": {
+    "mtime": 1782385588.460924,
+    "ast_hash": "70b2056167a04723bfd77a0af0f8ddd4",
+    "semantic_hash": "70b2056167a04723bfd77a0af0f8ddd4"
+  },
+  "BattleshipsGameApi/appsettings.Production.json": {
+    "mtime": 1782473670.1728613,
+    "ast_hash": "a3d7ec971c3d019b5bc5a64dbe79d260",
+    "semantic_hash": "a3d7ec971c3d019b5bc5a64dbe79d260"
+  },
+  "BattleshipsGameApi/appsettings.json": {
+    "mtime": 1782473662.924103,
+    "ast_hash": "d073fa850f74b0aaf769dffd1b79cbce",
+    "semantic_hash": "d073fa850f74b0aaf769dffd1b79cbce"
+  },
+  "BattleshipsGameApi/global.json": {
+    "mtime": 1781005162.151799,
+    "ast_hash": "8eab2efa869fdb4ac0447aace6997932",
+    "semantic_hash": "8eab2efa869fdb4ac0447aace6997932"
+  },
+  "BattleshipsGameUI/components.json": {
+    "mtime": 1781212455.9227414,
+    "ast_hash": "fbf9f3704a67f62f9d3cd7ee4536042b",
+    "semantic_hash": "fbf9f3704a67f62f9d3cd7ee4536042b"
+  },
+  "BattleshipsGameUI/eslint.config.js": {
+    "mtime": 1781212455.9227414,
+    "ast_hash": "75a0286de267d5393020e4439ed72f6a",
+    "semantic_hash": "75a0286de267d5393020e4439ed72f6a"
+  },
+  "BattleshipsGameUI/package.json": {
+    "mtime": 1782471749.444867,
+    "ast_hash": "24500c413bd009209d16d0e8c42ea49e",
+    "semantic_hash": "24500c413bd009209d16d0e8c42ea49e"
+  },
+  "BattleshipsGameUI/src/App.tsx": {
+    "mtime": 1781212455.9296267,
+    "ast_hash": "cf811ce36a4140c7ef39759a6d3cee4b",
+    "semantic_hash": "cf811ce36a4140c7ef39759a6d3cee4b"
+  },
+  "BattleshipsGameUI/src/components/RequireAuth.tsx": {
+    "mtime": 1781212455.9318855,
+    "ast_hash": "e9416cc08b2bdf4c12b63392d1e22263",
+    "semantic_hash": "e9416cc08b2bdf4c12b63392d1e22263"
+  },
+  "BattleshipsGameUI/src/components/Shell.tsx": {
+    "mtime": 1781212455.9318855,
+    "ast_hash": "f4d7e5844467d6dec9e3791119a3aa3b",
+    "semantic_hash": "f4d7e5844467d6dec9e3791119a3aa3b"
+  },
+  "BattleshipsGameUI/src/components/theme-provider.tsx": {
+    "mtime": 1781212455.9328868,
+    "ast_hash": "bb764a9e2cdc12b435aa85ccee797580",
+    "semantic_hash": "bb764a9e2cdc12b435aa85ccee797580"
+  },
+  "BattleshipsGameUI/src/components/ui/button.tsx": {
+    "mtime": 1781212455.9340243,
+    "ast_hash": "7af9f9c8c70444f08c4dd84e1506b6ec",
+    "semantic_hash": "7af9f9c8c70444f08c4dd84e1506b6ec"
+  },
+  "BattleshipsGameUI/src/components/ui/card.tsx": {
+    "mtime": 1781212455.9340243,
+    "ast_hash": "c38198b92e74da672ea03f1100c72bdd",
+    "semantic_hash": "c38198b92e74da672ea03f1100c72bdd"
+  },
+  "BattleshipsGameUI/src/components/ui/form.tsx": {
+    "mtime": 1781212455.9340243,
+    "ast_hash": "9040be94f0c2539ea7f25df17054c235",
+    "semantic_hash": "9040be94f0c2539ea7f25df17054c235"
+  },
+  "BattleshipsGameUI/src/components/ui/input.tsx": {
+    "mtime": 1781212455.935299,
+    "ast_hash": "071b77436de17a731d276c3e1b428404",
+    "semantic_hash": "071b77436de17a731d276c3e1b428404"
+  },
+  "BattleshipsGameUI/src/components/ui/label.tsx": {
+    "mtime": 1781212455.935299,
+    "ast_hash": "be064c53a0c9624fef379739cd1a4632",
+    "semantic_hash": "be064c53a0c9624fef379739cd1a4632"
+  },
+  "BattleshipsGameUI/src/components/ui/select.tsx": {
+    "mtime": 1781212455.9368093,
+    "ast_hash": "c988bf7a3be523b8db31eafcb258e6cd",
+    "semantic_hash": "c988bf7a3be523b8db31eafcb258e6cd"
+  },
+  "BattleshipsGameUI/src/components/ui/textarea.tsx": {
+    "mtime": 1781212455.9378173,
+    "ast_hash": "37c2bc6c293b1fff0423a4a7592826ce",
+    "semantic_hash": "37c2bc6c293b1fff0423a4a7592826ce"
+  },
+  "BattleshipsGameUI/src/context/AuthContext.tsx": {
+    "mtime": 1781212455.9378173,
+    "ast_hash": "657fb06cc94a2630ef6fc9a57294b343",
+    "semantic_hash": "657fb06cc94a2630ef6fc9a57294b343"
+  },
+  "BattleshipsGameUI/src/lib/utils.ts": {
+    "mtime": 1781212455.9405446,
+    "ast_hash": "1d8011eb18769078bf77502b220daa5e",
+    "semantic_hash": "1d8011eb18769078bf77502b220daa5e"
+  },
+  "BattleshipsGameUI/src/main.tsx": {
+    "mtime": 1781212455.9405446,
+    "ast_hash": "47c6500410a5c048de1766d9e9919650",
+    "semantic_hash": "47c6500410a5c048de1766d9e9919650"
+  },
+  "BattleshipsGameUI/src/pages/LoginPage.tsx": {
+    "mtime": 1781212455.9415982,
+    "ast_hash": "ceec49192a46e46cc105932386c5962b",
+    "semantic_hash": "ceec49192a46e46cc105932386c5962b"
+  },
+  "BattleshipsGameUI/src/pages/ProductsPage.tsx": {
+    "mtime": 1781212455.942817,
+    "ast_hash": "dabfdfd6b19273a48211f9ccb17e5734",
+    "semantic_hash": "dabfdfd6b19273a48211f9ccb17e5734"
+  },
+  "BattleshipsGameUI/src/pages/RegisterPage.tsx": {
+    "mtime": 1781212455.942817,
+    "ast_hash": "a0a59dd0cc551402d1ff147f15576adc",
+    "semantic_hash": "a0a59dd0cc551402d1ff147f15576adc"
+  },
+  "BattleshipsGameUI/src/pages/UnitProductsPage.tsx": {
+    "mtime": 1781212455.9441755,
+    "ast_hash": "7ff6962f7d681c3edbe451f217224522",
+    "semantic_hash": "7ff6962f7d681c3edbe451f217224522"
+  },
+  "BattleshipsGameUI/src/services/api.ts": {
+    "mtime": 1782473717.4626486,
+    "ast_hash": "b69d3d54e4c6963b45a5ffc4b2abfae9",
+    "semantic_hash": "b69d3d54e4c6963b45a5ffc4b2abfae9"
+  },
+  "BattleshipsGameUI/src/services/authService.ts": {
+    "mtime": 1781212455.945172,
+    "ast_hash": "44bc85743f9189c05e82b43317e067ca",
+    "semantic_hash": "44bc85743f9189c05e82b43317e067ca"
+  },
+  "BattleshipsGameUI/src/services/productService.ts": {
+    "mtime": 1781212455.945172,
+    "ast_hash": "4b5cb51312909463e1de63437a700b06",
+    "semantic_hash": "4b5cb51312909463e1de63437a700b06"
+  },
+  "BattleshipsGameUI/src/services/unitProductService.ts": {
+    "mtime": 1781212455.9465997,
+    "ast_hash": "26a17eab0d987c8a35808e4810cb07c0",
+    "semantic_hash": "26a17eab0d987c8a35808e4810cb07c0"
+  },
+  "BattleshipsGameUI/src/types/api.ts": {
+    "mtime": 1781212455.9481032,
+    "ast_hash": "795a01f472cae226114161b7715e234e",
+    "semantic_hash": "795a01f472cae226114161b7715e234e"
+  },
+  "BattleshipsGameUI/tsconfig.app.json": {
+    "mtime": 1781212455.9481032,
+    "ast_hash": "30f69dfd8d129381ee28d4ccc45370d8",
+    "semantic_hash": "30f69dfd8d129381ee28d4ccc45370d8"
+  },
+  "BattleshipsGameUI/tsconfig.json": {
+    "mtime": 1781212455.9481032,
+    "ast_hash": "8f8d299e26b59b553cd694eb06cbea80",
+    "semantic_hash": "8f8d299e26b59b553cd694eb06cbea80"
+  },
+  "BattleshipsGameUI/tsconfig.node.json": {
+    "mtime": 1781212455.9495966,
+    "ast_hash": "1cd4c6b260b0dccbad5bc0a25029f390",
+    "semantic_hash": "1cd4c6b260b0dccbad5bc0a25029f390"
+  },
+  "BattleshipsGameUI/vite.config.ts": {
+    "mtime": 1781212455.9495966,
+    "ast_hash": "1c08667244f95c08569f47ce06e84702",
+    "semantic_hash": "1c08667244f95c08569f47ce06e84702"
+  },
+  "ObsidianVault/.obsidian/app.json": {
+    "mtime": 1782727728.6231236,
+    "ast_hash": "99914b932bd37a50b983c5e7c90ae93b",
+    "semantic_hash": "99914b932bd37a50b983c5e7c90ae93b"
+  },
+  "ObsidianVault/.obsidian/appearance.json": {
+    "mtime": 1782727728.624588,
+    "ast_hash": "99914b932bd37a50b983c5e7c90ae93b",
+    "semantic_hash": "99914b932bd37a50b983c5e7c90ae93b"
+  },
+  "ObsidianVault/.obsidian/community-plugins.json": {
+    "mtime": 1782727728.8548858,
+    "ast_hash": "1d8032d9d26cf5bb0058a14fe057662a",
+    "semantic_hash": "1d8032d9d26cf5bb0058a14fe057662a"
+  },
+  "ObsidianVault/.obsidian/core-plugins.json": {
+    "mtime": 1782727728.2484596,
+    "ast_hash": "7c877bea49eaeabb100563bd157b9051",
+    "semantic_hash": "7c877bea49eaeabb100563bd157b9051"
+  },
+  "ObsidianVault/.obsidian/graph.json": {
+    "mtime": 1782727730.088,
+    "ast_hash": "41ffa915f9d880d061cd7db53a247fe1",
+    "semantic_hash": "41ffa915f9d880d061cd7db53a247fe1"
+  },
+  "ObsidianVault/.obsidian/plugins/obsidian42-brat/brat-migrations.json": {
+    "mtime": 1782726737.2617042,
+    "ast_hash": "43c72a8b2a9b21ddd4a74ddc4f4a892b",
+    "semantic_hash": "43c72a8b2a9b21ddd4a74ddc4f4a892b"
+  },
+  "ObsidianVault/.obsidian/plugins/obsidian42-brat/main.js": {
+    "mtime": 1782726713.629756,
+    "ast_hash": "5fdd0bf66479633d4dd46de003fe8256",
+    "semantic_hash": "5fdd0bf66479633d4dd46de003fe8256"
+  },
+  "ObsidianVault/.obsidian/plugins/obsidian42-brat/manifest.json": {
+    "mtime": 1782726713.4118657,
+    "ast_hash": "2da75e24a27dba146bfca66dd32b5b2e",
+    "semantic_hash": "2da75e24a27dba146bfca66dd32b5b2e"
+  },
+  "ObsidianVault/.obsidian/workspace.json": {
+    "mtime": 1782727744.1808407,
+    "ast_hash": "f054fb724d9c57139985dfdf15fbc1a8",
+    "semantic_hash": "f054fb724d9c57139985dfdf15fbc1a8"
+  },
+  "ProductCatalopApi.sln": {
+    "mtime": 1782575414.9161973,
+    "ast_hash": "a7cda2676e72f2416073e04b690d5bfa",
+    "semantic_hash": "a7cda2676e72f2416073e04b690d5bfa"
+  },
+  "BattleshipsGameUI/README.md": {
+    "mtime": 1781212455.9216747,
+    "ast_hash": "e82eb266e7be0e4dce9f19ab6f3f77f0",
+    "semantic_hash": "e82eb266e7be0e4dce9f19ab6f3f77f0"
+  },
+  "BattleshipsGameUI/index.html": {
+    "mtime": 1781212455.9237456,
+    "ast_hash": "eb0698ead0de67f671909c508146ab2b",
+    "semantic_hash": "eb0698ead0de67f671909c508146ab2b"
+  },
+  "ObsidianVault/Welcome.md": {
+    "mtime": 1782726519.8434024,
+    "ast_hash": "5dce4937496ad2d20178a7578f1a1368",
+    "semantic_hash": "5dce4937496ad2d20178a7578f1a1368"
+  },
+  "README.md": {
+    "mtime": 1782532977.0413783,
+    "ast_hash": "2cb6a31ae9772fd0c7359d1c4d3cd8ff",
+    "semantic_hash": "2cb6a31ae9772fd0c7359d1c4d3cd8ff"
+  },
+  "BattleshipsGameUI/public/vite.svg": {
+    "mtime": 1781212455.9276223,
+    "ast_hash": "8e3a10e157f75ada21ab742c022d5430",
+    "semantic_hash": "8e3a10e157f75ada21ab742c022d5430"
+  },
+  "BattleshipsGameUI/src/assets/react.svg": {
+    "mtime": 1781212455.9308875,
+    "ast_hash": "f0402b67b6ce880f65666bb49e841696",
+    "semantic_hash": "f0402b67b6ce880f65666bb49e841696"
+  }
+}

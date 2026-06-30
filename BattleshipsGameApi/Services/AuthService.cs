@@ -54,7 +54,6 @@ public class AuthService : IAuthService
         if (user == null) return false;
 
         user.FirstName = dto.FirstName;
-        user.LastName = dto.LastName;
 
         if (dto.CurrentPassword != null && dto.NewPassword != null)
         {
@@ -82,7 +81,6 @@ public class AuthService : IAuthService
             new Claim(ClaimTypes.NameIdentifier, user.Id),
             new Claim(ClaimTypes.Email, user.Email!),
             new Claim(ClaimTypes.GivenName, user.FirstName),
-            new Claim(ClaimTypes.Surname, user.LastName),
         };
 
         var signingKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(key));
@@ -101,7 +99,6 @@ public class AuthService : IAuthService
             Token = new JwtSecurityTokenHandler().WriteToken(token),
             Email = user.Email!,
             FirstName = user.FirstName,
-            LastName = user.LastName,
             ExpiresAt = expiresAt
         };
     }

@@ -8,6 +8,7 @@ using Microsoft.IdentityModel.Tokens;
 using ProductCatalogAPI.Data;
 using ProductCatalogAPI.Data.Seeders;
 using ProductCatalogAPI.Exceptions;
+using ProductCatalogAPI.Hubs;
 using ProductCatalogAPI.Models;
 using ProductCatalogAPI.Repositories;
 using ProductCatalogAPI.Services;
@@ -50,21 +51,20 @@ builder.Services.AddFluentValidationAutoValidation();
 builder.Services.AddValidatorsFromAssemblyContaining<Program>();
 
 // Dependency Injection - Repositories
-builder.Services.AddScoped<IProductRepository, ProductRepository>();
-builder.Services.AddScoped<IUnitProductRepository, UnitProductRepository>();
+builder.Services.AddScoped<IGameRepository, GameRepository>();
 
 // Dependency Injection - Services
-builder.Services.AddScoped<IProductService, ProductService>();
-builder.Services.AddScoped<IUnitProductService, UnitProductService>();
 builder.Services.AddScoped<IAuthService, AuthService>();
+builder.Services.AddScoped<IGameService, GameService>();
+
+// SignalR (realtime game updates)
+builder.Services.AddSignalR();
 
 // AutoMapper
 builder.Services.AddAutoMapper(typeof(Program));
 
 // Dependency Injection - Seeders
 builder.Services.AddScoped<ISeeder, ApplicationUserSeeder>(); 
-builder.Services.AddScoped<ISeeder, ProductSeeder>();         
-builder.Services.AddScoped<ISeeder, UnitProductSeeder>();
 
 // Register orchestrator
 builder.Services.AddScoped<DataSeeder>();
@@ -160,5 +160,6 @@ if (app.Environment.IsDevelopment())
 
 //* app.UseHttpsRedirection();
 app.MapControllers();
+app.MapHub<GameHub>("/hubs/game");
 app.Run();
 

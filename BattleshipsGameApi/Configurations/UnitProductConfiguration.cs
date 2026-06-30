@@ -34,7 +34,7 @@ public class UnitProductConfiguration : IEntityTypeConfiguration<UnitProduct>
             .OnDelete(DeleteBehavior.Cascade);
 
         builder.HasOne(u => u.User)
-            .WithMany(a => a.UnitProducts)
+            .WithMany()
             .HasForeignKey(u => u.UserId)
             .OnDelete(DeleteBehavior.SetNull);
 

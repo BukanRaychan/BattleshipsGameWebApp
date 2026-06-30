@@ -48,6 +48,7 @@ public class GameService : IGameService
         return new CreateGameResponseDto
         {
             SessionId = session.Id,
+            PlayerId = host.Id,
             JoinCode = session.JoinCode,
             PlayerToken = host.PlayerToken
         };
@@ -80,6 +81,7 @@ public class GameService : IGameService
         return new JoinGameResponseDto
         {
             SessionId = session.Id,
+            PlayerId = player.Id,
             PlayerToken = player.PlayerToken
         };
     }

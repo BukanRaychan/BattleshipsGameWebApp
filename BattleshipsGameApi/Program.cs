@@ -19,14 +19,11 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers()
     .AddJsonOptions(options =>
     {
-        // Serialize enums as their names so REST responses match the SignalR events
-        // (which already send enum.ToString()). Keeps one contract for the frontend.
         options.JsonSerializerOptions.Converters.Add(new JsonStringEnumConverter());
     });
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(options =>
 {
-    // Add JWT security definition
     options.AddSecurityDefinition("Bearer", new Microsoft.OpenApi.Models.OpenApiSecurityScheme
     {
         Name = "Authorization",
@@ -37,7 +34,6 @@ builder.Services.AddSwaggerGen(options =>
         Description = "Enter your token like this: Bearer {your token here}"
     });
 
-    // Make Swagger send the token on every request
     options.AddSecurityRequirement(new Microsoft.OpenApi.Models.OpenApiSecurityRequirement
     {
         {

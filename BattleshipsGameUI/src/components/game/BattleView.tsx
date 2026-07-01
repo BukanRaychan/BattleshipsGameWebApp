@@ -46,7 +46,7 @@ function Ships({ board, revealSunkOnly }: { board: BoardView; revealSunkOnly?: b
 
 function Markers({ board, emphaticKey }: { board: BoardView; emphaticKey?: string }) {
   return (
-    <div className="pointer-events-none absolute inset-0">
+    <div className="pointer-events-none absolute border inset-0">
       {board.shots.map((shot, i) => (
         <div key={i} style={cellBox(shot.x, shot.y)}>
           <ShotMarker
@@ -90,7 +90,7 @@ function TargetGrid({
             onClick={() => onFire(x, y)}
             aria-label={`Fire at ${String.fromCharCode(65 + x)}${y + 1}`}
             className={cn(
-              "rounded-[2px] transition-colors duration-100",
+              "rounded-xs transition-colors duration-100",
               canFire
                 ? "cursor-crosshair hover:bg-primary/25 hover:ring-2 hover:ring-primary/60"
                 : "cursor-default"
@@ -139,7 +139,7 @@ export function BattleView() {
       <div className="flex flex-col items-start justify-center gap-8 md:flex-row">
         <div className="flex flex-col items-center gap-2">
           <div className="flex w-full items-center justify-between px-1">
-            <span className="text-xs font-semibold uppercase tracking-[0.1em]">
+            <span className="text-xs font-semibold uppercase tracking-widest">
               Enemy waters
             </span>
             <span className="font-mono text-xs text-muted-foreground">
@@ -160,7 +160,7 @@ export function BattleView() {
 
         <div className="flex flex-col items-center gap-2">
           <div className="flex w-full items-center justify-between px-1">
-            <span className="text-xs font-semibold uppercase tracking-[0.1em]">
+            <span className="text-xs font-semibold uppercase tracking-widest">
               Your fleet
             </span>
             <span className="font-mono text-xs text-muted-foreground">

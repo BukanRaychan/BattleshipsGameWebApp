@@ -21,7 +21,7 @@ type AttackMadePayload = {
  * Opens the SignalR channel for a player and wires server pushes to the store.
  * Every event triggers an authoritative refresh; AttackMade also records the
  * shot so the board can animate it. This is the web-native replacement for the
- * console app's MessageDelegate.
+* console app's MessageDelegate.
  */
 export function useGameConnection(playerToken: string | undefined): {
   connected: boolean

@@ -19,9 +19,6 @@ function safeParse(text: string): unknown {
   }
 }
 
-/** Pull a human-readable message out of the two error shapes the API emits:
- *  the ApiResponseDto envelope ({ error, message }) and ASP.NET validation
- *  ProblemDetails ({ errors, title }). */
 function extractError(body: unknown, status: number): string {
   if (body && typeof body === "object") {
     const b = body as Record<string, unknown>

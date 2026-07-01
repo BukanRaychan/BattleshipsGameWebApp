@@ -39,13 +39,13 @@ function clamp(v: number, min: number, max: number) {
 
 function DroppableCell({ x, y }: { x: number; y: number }) {
   const { setNodeRef } = useDroppable({ id: `cell:${x}:${y}`, data: { x, y } })
-  return <div ref={setNodeRef} />
+  return <div className="border" ref={setNodeRef} />
 }
 
 function DroppableGrid({ size }: { size: number }) {
   return (
     <div
-      className="absolute inset-0 grid gap-px"
+      className="absolute inset-0 grid"
       style={{
         gridTemplateColumns: `repeat(${size}, 1fr)`,
         gridTemplateRows: `repeat(${size}, 1fr)`,

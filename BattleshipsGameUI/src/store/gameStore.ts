@@ -94,7 +94,6 @@ export const useGameStore = create<GameStore>((set, get) => ({
     }
   },
 
-  // Driven by the SignalR AttackMade event (fires for both players).
   registerShot: (x, y, result, attackingPlayerId) => {
     const { identity } = get()
     const byMe = identity?.playerId === attackingPlayerId

@@ -8,8 +8,6 @@ import type { AttackResult, Orientation, ShipType } from "@/types/game"
 
 const PREVIEW_CELL = "clamp(20px, 3.4vw, 32px)"
 
-// A real, static snapshot of a game in progress — uses the same board and ship
-// components the live game renders, so it is a genuine preview, not a mockup.
 const SHIPS: {
   type: ShipType
   length: number

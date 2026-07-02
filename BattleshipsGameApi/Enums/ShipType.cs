@@ -1,6 +1,5 @@
 namespace ProductCatalogAPI.Enums;
 
-// Value = ship length in cells.
 public enum ShipType
 {
     Destroyer = 2,

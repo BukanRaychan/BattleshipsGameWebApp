@@ -19,10 +19,8 @@ public class GlobalExceptionHandler : IExceptionHandler
         Exception exception,
         CancellationToken cancellationToken)
     {
-        // Log the exception
         _logger.LogError(exception, "Unhandled exception: {Message}", exception.Message);
 
-        // Determine status code based on exception type
         var statusCode = exception switch
         {
             ArgumentException => HttpStatusCode.BadRequest,
@@ -31,7 +29,6 @@ public class GlobalExceptionHandler : IExceptionHandler
             _ => HttpStatusCode.InternalServerError
         };
 
-        // Build clean error response
         var response = ApiResponseDto<object>.ErrorResult(
             error: exception.Message,
             message: GetMessageFromStatusCode(statusCode)

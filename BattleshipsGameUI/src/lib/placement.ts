@@ -93,6 +93,5 @@ export function randomFleet(size: number): PlacedShip[] {
     }
   }
 
-  // Extremely unlikely, but retry the whole layout if a ship couldn't fit.
   return placed.length === FLEET.length ? placed : randomFleet(size)
 }

@@ -12,7 +12,7 @@ namespace ProductCatalogAPI.Services;
 
 public class GameService : IGameService
 {
-    private const string JoinCodeAlphabet = "ABCDEFGHJKLMNPQRSTUVWXYZ23456789"; // no ambiguous chars
+    private const string JoinCodeAlphabet = "ABCDEFGHJKLMNPQRSTUVWXYZ23456789";
     private const int JoinCodeLength = 6;
 
     private readonly IGameRepository _gameRepository;
@@ -71,7 +71,6 @@ public class GameService : IGameService
         };
         session.Players.Add(player);
 
-        // Both players present — move to the placement phase.
         session.Status = GameStatus.Placement;
         await _gameRepository.SaveChangesAsync();
 
@@ -118,7 +117,6 @@ public class GameService : IGameService
 
         player.IsReady = true;
 
-        // Both fleets placed — start the attack phase with the host firing first.
         if (session.Players.Count == 2 && session.Players.All(p => p.IsReady))
         {
             session.Status = GameStatus.InProgress;
@@ -226,7 +224,6 @@ public class GameService : IGameService
         {
             Size = session.BoardSize,
             Ships = _mapper.Map<List<ShipViewDto>>(player.Ships),
-            // Shots fired at me are the opponent's attacks.
             Shots = opponent == null
                 ? new List<ShotDto>()
                 : _mapper.Map<List<ShotDto>>(session.Attacks.Where(a => a.AttackingPlayerId == opponent.Id))
@@ -235,7 +232,6 @@ public class GameService : IGameService
         var opponentBoard = new BoardViewDto { Size = session.BoardSize };
         if (opponent != null)
         {
-            // Opponent ships are hidden until sunk.
             var sunkShips = opponent.Ships.Where(BattleshipRules.IsShipSunk);
             opponentBoard.Ships = _mapper.Map<List<ShipViewDto>>(sunkShips);
             opponentBoard.Shots = _mapper.Map<List<ShotDto>>(

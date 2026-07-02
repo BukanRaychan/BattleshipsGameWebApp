@@ -5,9 +5,6 @@ using ProductCatalogAPI.Models;
 namespace ProductCatalogAPI.Services.Game;
 public static class BattleshipRules
 {
-    // Standard fleet expressed as ship lengths (= cell counts). Carrier 5, Battleship 4,
-    // Cruiser 3, Submarine 3, Destroyer 2. Validated by length multiset because ShipType
-    // values collide (Cruiser == Submarine == 3); gameplay only cares about length.
     public static readonly int[] RequiredShipLengths = { 5, 4, 3, 3, 2 };
 
     /// <summary>Validates a submitted fleet. Returns an error message, or null when the placement is legal.</summary>
@@ -36,8 +33,7 @@ public static class BattleshipRules
 
             if (!IsContiguousLine(cells, ship.Orientation))
                 return $"A {ship.ShipType}'s cells must form a straight {ship.Orientation} line.";
-
-            // Overlap + adjacency: no previously-placed cell may sit in the 8-neighbourhood (or on top).
+                
             foreach (var c in cells)
             {
                 for (int dx = -1; dx <= 1; dx++)

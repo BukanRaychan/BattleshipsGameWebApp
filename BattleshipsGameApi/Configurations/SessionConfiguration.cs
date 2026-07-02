@@ -10,7 +10,6 @@ public class SessionConfiguration : IEntityTypeConfiguration<Session>
     {
         builder.HasKey(s => s.Id);
 
-        // Id is assigned client-side (Guid.NewGuid()); insert it as-is.
         builder.Property(s => s.Id).ValueGeneratedNever();
 
         builder.Property(s => s.JoinCode)

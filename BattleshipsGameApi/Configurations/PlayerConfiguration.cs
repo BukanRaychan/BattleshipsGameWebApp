@@ -10,7 +10,7 @@ public class PlayerConfiguration : IEntityTypeConfiguration<Player>
     {
         builder.HasKey(p => p.Id);
         
-        builder.Property(p => p.Id).ValueGeneratedNever(); // Id is assigned client-side (Guid.NewGuid()); insert it as-is.
+        builder.Property(p => p.Id).ValueGeneratedNever(); 
 
         builder.Property(p => p.PlayerToken)
             .IsRequired()

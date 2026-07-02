@@ -1,7 +1,5 @@
 import type { Identity } from "@/types/game"
 
-// Per-tab storage: two tabs in one browser act as two independent players,
-// which makes local two-player testing possible while surviving a refresh.
 const KEY = "bs-identity"
 
 export function saveIdentity(identity: Identity): void {
